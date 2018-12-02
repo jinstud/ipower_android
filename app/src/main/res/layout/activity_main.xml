@@ -1,0 +1,930 @@
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:id="@+id/ads"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="9">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:src="@drawable/banner"
+            android:background="#ff282828"
+            android:scaleType="fitCenter"
+            android:contentDescription="@string/vuoto" />
+
+        <LinearLayout
+            android:id="@+id/schermo"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:background="@drawable/sfondo1"
+            android:orientation="vertical"
+            android:layout_weight="1.5">
+
+            <LinearLayout
+                android:id="@+id/l_misure"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:weightSum="7"
+                android:baselineAligned="false"
+                android:layout_gravity="center_vertical"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp">
+
+                <!-- <Space
+                    android:layout_width="0px"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"/>-->
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="3"
+                    android:weightSum="6">
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="0.3" />
+
+                    <RelativeLayout
+                        android:id="@+id/l_shader_liner"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1.4"
+                        android:layout_marginLeft="5dp">
+
+                        <com.ipower.tattoo.BigTextButton
+                            custom:font="fonts/digital-7.ttf"
+                            custom:text="@string/vuoto"
+                            android:id="@+id/lb_liner"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="@android:color/transparent"
+                            android:singleLine="true"
+                            android:scaleType="fitCenter" />
+
+                        <com.ipower.tattoo.BigTextButton
+                            custom:font="fonts/digital-7.ttf"
+                            custom:text="@string/vuoto"
+                            android:id="@+id/lb_shader"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="@android:color/transparent"
+                            android:singleLine="true"
+                            android:scaleType="fitCenter" />
+
+                    </RelativeLayout>
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="0.75" />
+
+                    <LinearLayout
+                        android:orientation="horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="3.3"
+                        android:weightSum="10">
+
+                        <com.ipower.tattoo.BigTextButton
+                            custom:font="fonts/digital-7.ttf"
+                            custom:text="00.0"
+                            custom:alignment="right"
+                            android:id="@+id/lb_tensione"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:background="@android:color/transparent"
+                            android:singleLine="true"
+                            android:scaleType="fitCenter"
+                            android:layout_weight="8" />
+
+                        <LinearLayout
+                            android:orientation="vertical"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="2"
+                            android:layout_marginLeft="10dp"
+                            android:weightSum="2">
+
+                            <Space
+                                android:layout_width="match_parent"
+                                android:layout_height="0dp"
+                                android:layout_weight="1" />
+
+                            <com.ipower.tattoo.BigTextButton
+                                custom:font="fonts/digital-7.ttf"
+                                custom:text="@string/volt"
+                                android:id="@+id/lb_volt"
+                                android:layout_width="match_parent"
+                                android:layout_height="0dp"
+                                android:background="@android:color/transparent"
+                                android:singleLine="true"
+                                android:scaleType="fitCenter"
+                                android:layout_weight="1" />
+                        </LinearLayout>
+
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                   android:id="@+id/l_stat"
+                   android:layout_width="0dp"
+                   android:layout_height="match_parent"
+                   android:orientation="vertical"
+                    android:layout_weight="4"
+                    android:weightSum="3"
+                    android:layout_marginLeft="20dp">
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="0.15" />
+
+                    <LinearLayout
+                        android:id="@+id/stat1"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:weightSum="2"
+                        android:layout_weight="0.7">
+
+                        <com.ipower.tattoo.BigTextButton
+                            custom:font="fonts/digital-7.ttf"
+                            custom:text="@string/lb_hz"
+                            android:layout_height="match_parent"
+                            android:layout_width="0dp"
+                            android:layout_weight="1"
+                            android:background="@android:color/transparent"
+                            android:singleLine="true"
+                            android:scaleType="fitCenter" />
+
+                        <com.ipower.tattoo.BigTextButton
+                            custom:font="fonts/digital-7-mono.ttf"
+                            custom:text="@string/lb_cc"
+                            custom:alignment="right"
+                            android:id="@+id/vl_hz"
+                            android:layout_height="match_parent"
+                            android:layout_width="0dp"
+                            android:layout_weight="1"
+                            android:background="@android:color/transparent"
+                            android:singleLine="true"
+                            android:scaleType="fitCenter" />
+
+                    </LinearLayout>
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="0.3" />
+
+                    <LinearLayout
+                        android:id="@+id/stat2"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:weightSum="2"
+                        android:layout_weight="0.7">
+
+                        <com.ipower.tattoo.BigTextButton
+                            custom:font="fonts/digital-7.ttf"
+                            custom:text="@string/lb_duty"
+                            android:layout_height="match_parent"
+                            android:layout_width="0dp"
+                            android:layout_weight="1"
+                            android:background="@android:color/transparent"
+                            android:singleLine="true"
+                            android:scaleType="fitCenter" />
+
+                        <com.ipower.tattoo.BigTextButton
+                            custom:font="fonts/digital-7-mono.ttf"
+                            custom:text="@string/lb_cc"
+                            custom:alignment="right"
+                            android:id="@+id/vl_duty"
+                            android:layout_height="match_parent"
+                            android:layout_width="0dp"
+                            android:layout_weight="1"
+                            android:background="@android:color/transparent"
+                            android:singleLine="true"
+                            android:scaleType="fitCenter" />
+
+                    </LinearLayout>
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="0.3" />
+
+                    <LinearLayout
+                        android:id="@+id/stat3"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:weightSum="2"
+                        android:layout_weight="0.7">
+
+                        <com.ipower.tattoo.BigTextButton
+                            custom:font="fonts/digital-7.ttf"
+                            custom:text="@string/timer"
+                            android:layout_height="match_parent"
+                            android:layout_width="0dp"
+                            android:layout_weight="1"
+                            android:background="@android:color/transparent"
+                            android:singleLine="true"
+                            android:scaleType="fitCenter" />
+
+                        <com.ipower.tattoo.BigTextButton
+                            custom:font="fonts/digital-7-mono.ttf"
+                            custom:text="0:00:00"
+                            custom:alignment="right"
+                            android:id="@+id/timer"
+                            android:layout_height="match_parent"
+                            android:layout_width="0dp"
+                            android:layout_weight="1"
+                            android:background="@android:color/transparent"
+                            android:singleLine="true"
+                            android:scaleType="fitCenter" />
+
+                    </LinearLayout>
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="0.15" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/tre_btn"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:baselineAligned="false"
+            android:orientation="horizontal"
+            android:weightSum="3"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1.2"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="-10dp">
+
+            <LinearLayout
+                android:id="@+id/l_menu"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:layout_weight="0.7">
+
+                <ImageButton
+                    android:id="@+id/bt_menu"
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:layout_gravity="center"
+                    android:background="@android:color/transparent"
+                    android:src="@drawable/btn_rombo"
+                    android:text="@string/vuoto"
+                    android:layout_weight="1"
+                    android:scaleType="fitCenter"
+                    android:contentDescription="" />
+
+                <TextView
+                    android:id="@+id/settingsLabel"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:gravity="center_horizontal"
+                    android:minWidth="70dp"
+                    android:text="@string/title_activity_menu"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textIsSelectable="false"
+                    android:textSize="11sp"
+                    android:layout_marginTop="-5dp"
+                    android:textColor="#ff7f7f7f" />
+
+            </LinearLayout>
+
+            <Space
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0.3" />
+
+            <LinearLayout
+                android:id="@+id/l_cnt"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:layout_marginBottom="20dp">
+
+                <com.ipower.tattoo.ToggleImageButton
+                    android:id="@+id/buttonConnect"
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:layout_gravity="center"
+                    android:background="@android:color/transparent"
+                    android:src="@drawable/btn_connect"
+                    android:textSize="12sp"
+                    android:layout_weight="1"
+                    android:scaleType="fitCenter" />
+
+                <TextView
+                    android:id="@+id/connectLabel"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:gravity="center_horizontal"
+                    android:text="@string/connetti"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="11sp"
+                    android:layout_marginTop="-5dp"
+                    android:textColor="#ff7f7f7f"
+                    android:autoText="false" />
+
+            </LinearLayout>
+
+            <Space
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0.3" />
+
+            <LinearLayout
+                android:id="@+id/l_pedale"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:layout_weight="0.7">
+
+                <com.ipower.tattoo.ToggleImageButton
+                    android:id="@+id/btn_on"
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:layout_gravity="center|top"
+                    android:background="@android:color/transparent"
+                    android:src="@drawable/btn_pedal"
+                    android:textSize="12sp"
+                    android:layout_weight="1"
+                    android:scaleType="fitCenter" />
+
+                <TextView
+                    android:id="@+id/pedalLabel"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:gravity="center_horizontal"
+                    android:minWidth="70dp"
+                    android:text="@string/modo_pedale"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textSize="11sp"
+                    android:layout_marginTop="-5dp"
+                    android:textColor="#ff7f7f7f" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/bot_centrale"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="3.15"
+            android:background="@drawable/central_off_intero"
+            android:orientation="vertical"
+
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:layout_marginTop="-10dp">
+
+            <Button
+                android:id="@+id/bt_piu"
+                style="@drawable/bluethoot_off"
+                android:layout_width="100dp"
+                android:layout_height="0px"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="1"
+                android:background="@null" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0px"
+                android:layout_weight="1" >
+
+                <ToggleButton
+                    android:id="@+id/sel1"
+                    android:layout_width="0px"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="5"
+                    android:background="@null"
+                    android:textOff="@string/tb_sel1_off"
+                    android:textOn="@string/tb_sel1_on"
+                    android:textSize="12sp"
+                    android:checked="false" />
+
+                <Space
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1" />
+
+                <ImageButton
+                    android:id="@+id/photo"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="3"
+                    android:background="@android:color/transparent"
+                    android:src="@drawable/btn_photo"
+                    android:text="@string/vuoto"
+                    android:scaleType="fitCenter"
+                    android:contentDescription="@string/vuoto" />
+
+                <Space
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1" />
+
+                <ToggleButton
+                    android:id="@+id/sel2"
+                    android:layout_width="0px"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="right|center_vertical"
+                    android:layout_weight="5"
+                    android:background="@null"
+                    android:textOff="@string/tb_sel2_off"
+                    android:textOn="@string/tb_sel2_on"
+                    android:textSize="12sp"
+                    android:checked="false" />
+
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/bt_meno"
+                android:layout_width="100dp"
+                android:layout_height="0px"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="1"
+                android:background="@null" />
+
+            <!-- android:background="@drawable/btn_bottom" -->
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/sel_marca_l"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:weightSum="5"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:baselineAligned="false"
+            android:layout_marginBottom="-5dp"
+            android:layout_marginTop="10dp">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:weightSum="1"
+                android:layout_marginRight="5dp">
+
+                <com.ipower.tattoo.ToggleImageButton
+                    android:id="@+id/preset1"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_gravity="center_vertical"
+                    android:background="@android:color/transparent"
+                    android:src="@drawable/btn_machine1"
+                    android:text="@string/vuoto"
+                    android:scaleType="fitCenter"
+                    android:layout_weight="1" />
+
+                <TextView
+                    android:id="@+id/lbl_preset1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:gravity="center_horizontal"
+                    android:text="MACHINE1"
+                    android:textAppearance="@android:style/TextAppearance.DeviceDefault.Small"
+                    android:textSize="10sp"
+                    android:textColor="#ff7f7f7f"
+                    android:singleLine="true"
+                    android:layout_marginTop="-5dp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:weightSum="1"
+                android:layout_marginRight="5dp">
+
+                <com.ipower.tattoo.ToggleImageButton
+                    android:id="@+id/preset2"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_gravity="center_vertical"
+                    android:background="@android:color/transparent"
+                    android:src="@drawable/btn_machine2"
+                    android:text="@string/vuoto"
+                    android:scaleType="fitCenter"
+                    android:layout_weight="1" />
+
+                <TextView
+                    android:id="@+id/lbl_preset2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:gravity="center_horizontal"
+                    android:text="MACHINE2"
+                    android:textAppearance="@android:style/TextAppearance.DeviceDefault.Small"
+                    android:textSize="10sp"
+                    android:textColor="#ff7f7f7f"
+                    android:singleLine="true"
+                    android:layout_marginTop="-5dp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:weightSum="1"
+                android:layout_marginRight="5dp">
+
+                <com.ipower.tattoo.ToggleImageButton
+                    android:id="@+id/preset3"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_gravity="center_vertical"
+                    android:background="@android:color/transparent"
+                    android:src="@drawable/btn_machine3"
+                    android:text="@string/vuoto"
+                    android:scaleType="fitCenter"
+                    android:layout_weight="1" />
+
+                <TextView
+                    android:id="@+id/lbl_preset3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:gravity="center_horizontal"
+                    android:text="MACHINE3"
+                    android:textAppearance="@android:style/TextAppearance.DeviceDefault.Small"
+                    android:textSize="10sp"
+                    android:textColor="#ff7f7f7f"
+                    android:singleLine="true"
+                    android:layout_marginTop="-5dp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:weightSum="1"
+                android:layout_marginRight="5dp">
+
+                <com.ipower.tattoo.ToggleImageButton
+                    android:id="@+id/preset4"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_gravity="center_vertical"
+                    android:background="@android:color/transparent"
+                    android:src="@drawable/btn_machine4"
+                    android:text="@string/vuoto"
+                    android:scaleType="fitCenter"
+                    android:layout_weight="1" />
+
+                <TextView
+                    android:id="@+id/lbl_preset4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:gravity="center_horizontal"
+                    android:text="MACHINE4"
+                    android:textAppearance="@android:style/TextAppearance.DeviceDefault.Small"
+                    android:textSize="10sp"
+                    android:textColor="#ff7f7f7f"
+                    android:singleLine="true"
+                    android:layout_marginTop="-5dp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:weightSum="1">
+
+                <com.ipower.tattoo.ToggleImageButton
+                    android:id="@+id/preset5"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_gravity="center_vertical"
+                    android:background="@android:color/transparent"
+                    android:src="@drawable/btn_machine5"
+                    android:text="@string/vuoto"
+                    android:scaleType="fitCenter"
+                    android:layout_weight="1" />
+
+                <TextView
+                    android:id="@+id/lbl_preset5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:gravity="center_horizontal"
+                    android:text="MACHINE5"
+                    android:textAppearance="@android:style/TextAppearance.DeviceDefault.Small"
+                    android:textSize="10sp"
+                    android:textColor="#ff7f7f7f"
+                    android:singleLine="true"
+                    android:layout_marginTop="-5dp" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1.3"
+            android:gravity="center_horizontal"
+            android:weightSum="2"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="-10dp"
+            android:layout_marginTop="10dp">
+
+            <com.ipower.tattoo.ToggleImageButton
+                android:id="@+id/L1"
+                style="?android:attr/buttonBarButtonStyle"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:background="@android:color/transparent"
+                android:src="@drawable/btn_toggle_l1"
+                android:text="@string/vuoto"
+                android:scaleType="fitCenter" />
+
+            <com.ipower.tattoo.ToggleImageButton
+                android:id="@+id/L2"
+                style="?android:attr/buttonBarButtonStyle"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:background="@android:color/transparent"
+                android:src="@drawable/btn_toggle_l2"
+                android:text="@string/vuoto"
+                android:scaleType="fitCenter" />
+
+
+        </LinearLayout>
+
+        <SeekBar
+            android:id="@+id/seekbar_volt"
+            android:layout_width="150dp"
+            android:layout_height="1dp"
+            android:layout_marginLeft="70dp"
+            android:clickable="false"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:longClickable="false"
+            android:max="127"
+            android:minWidth="95dp"
+            android:progress="1"
+            android:progressDrawable="@drawable/seekbar_style"
+            android:visibility="invisible" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/preview_panel"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/transparent"
+        android:weightSum="9"
+        android:visibility="gone">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@android:color/transparent">
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="8"
+            android:orientation="vertical"
+            android:background="@drawable/background"
+            android:weightSum="8">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:orientation="horizontal"
+                android:layout_weight="1.1"
+                android:weightSum="3"
+                android:layout_marginBottom="6dp">
+
+                <ImageButton
+                    android:id="@+id/preview_close"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:background="@android:color/transparent"
+                    android:src="@drawable/btn_preview_close"
+                    android:text="@string/vuoto"
+                    android:scaleType="fitCenter"
+                    android:contentDescription="@string/vuoto"
+                    android:layout_weight="1"
+                    android:layout_marginTop="6dp"
+                    android:layout_marginBottom="2dp" />
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/sfondo1"
+                    android:weightSum="10">
+
+                    <com.ipower.tattoo.BigTextButton
+                        custom:font="fonts/digital-7.ttf"
+                        custom:text="00.0"
+                        custom:alignment="center"
+                        custom:baseline="middle"
+                        android:id="@+id/lb_tensione_preview"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:background="@android:color/transparent"
+                        android:singleLine="true"
+                        android:scaleType="fitCenter"
+                        android:layout_weight="10"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginBottom="5dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp" />
+
+                </LinearLayout>
+
+                <ImageButton
+                    android:id="@+id/preview_choose"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:background="@android:color/transparent"
+                    android:src="@drawable/btn_preview_choose"
+                    android:text="@string/vuoto"
+                    android:layout_weight="1"
+                    android:scaleType="fitCenter"
+                    android:contentDescription="@string/vuoto"
+                    android:layout_marginTop="6dp"
+                    android:layout_marginBottom="2dp" />
+
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:orientation="horizontal"
+                android:layout_weight="6">
+
+                <com.ortiz.touch.TouchImageView
+                    android:id="@+id/preview_img"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:weightSum="6"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="6dp">
+
+                <ImageButton
+                    android:id="@+id/preview_plus"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:background="@android:color/transparent"
+                    android:src="@drawable/btn_preview_plus"
+                    android:text="@string/vuoto"
+                    android:layout_weight="1"
+                    android:scaleType="fitCenter"
+                    android:contentDescription="@string/vuoto" />
+
+                <Space
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.15" />
+
+                <ImageButton
+                    android:id="@+id/preview_minus"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:background="@android:color/transparent"
+                    android:src="@drawable/btn_preview_minus"
+                    android:text="@string/vuoto"
+                    android:layout_weight="1"
+                    android:scaleType="fitCenter"
+                    android:contentDescription="@string/vuoto" />
+
+                <Space
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.35" />
+
+                <com.ipower.tattoo.ToggleImageButton
+                    android:id="@+id/preview_pedal"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:background="@android:color/transparent"
+                    android:src="@drawable/btn_preview_pedal"
+                    android:layout_weight="1"
+                    android:scaleType="fitCenter" />
+
+                <Space
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.35" />
+
+                <com.ipower.tattoo.ToggleImageButton
+                    android:id="@+id/preview_l1"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:background="@android:color/transparent"
+                    android:src="@drawable/btn_preview_l1"
+                    android:layout_weight="1"
+                    android:scaleType="fitCenter" />
+
+                <Space
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.15" />
+
+                <com.ipower.tattoo.ToggleImageButton
+                    android:id="@+id/preview_l2"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:background="@android:color/transparent"
+                    android:src="@drawable/btn_preview_l2"
+                    android:layout_weight="1"
+                    android:scaleType="fitCenter" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>
+
+
+

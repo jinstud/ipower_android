@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/bg_menu"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/new_marca"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
+        android:text="@string/lb_new_marca"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <EditText
+        android:id="@+id/new_nome_marca"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="10dp"
+        android:ems="10"
+        android:hint="@string/hint_nome_marca" >
+
+        <requestFocus />
+    </EditText>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp" >
+
+        <TextView
+            android:id="@+id/new_volt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="10"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <Button
+            android:id="@+id/cancel_mod"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|fill_vertical"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/btn_rettangolare"
+            android:padding="10dp"
+            android:text="@string/cancel_mod"
+            android:textColor="@color/scritte_bottoni" />
+
+    </LinearLayout>
+
+    <SeekBar
+        android:id="@+id/sb_volt_marca"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="10dp"
+        android:max="127" />
+
+    <!--<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="20dp"
+        android:baselineAligned="false"
+        android:orientation="horizontal" >
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="10"
+            android:gravity="center" >
+
+            <TextView
+                android:id="@+id/lb_stazione"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:text="@string/lb_stazione"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <ToggleButton
+                android:id="@+id/btn_staz1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@id/lb_stazione"
+                android:background="@drawable/btn_toggle_rettangolare"
+                android:padding="10dp"
+                android:text="@string/sel_marca1"
+                android:textOff="@string/sel_marca1"
+                android:textOn="@string/sel_marca1" />
+
+            <ToggleButton
+                android:id="@+id/btn_staz2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/lb_stazione"
+                android:layout_marginLeft="10dp"
+                android:layout_toRightOf="@id/btn_staz1"
+                android:background="@drawable/btn_toggle_rettangolare"
+                android:padding="10dp"
+                android:text="@string/sel_marca2"
+                android:textOff="@string/sel_marca2"
+                android:textOn="@string/sel_marca2" />
+
+            <ToggleButton
+                android:id="@+id/btn_staz3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/lb_stazione"
+                android:layout_marginLeft="10dp"
+                android:layout_toRightOf="@id/btn_staz2"
+                android:background="@drawable/btn_toggle_rettangolare"
+                android:padding="10dp"
+                android:text="@string/sel_marca3"
+                android:textOff="@string/sel_marca3"
+                android:textOn="@string/sel_marca3" />
+
+            <ToggleButton
+                android:id="@+id/btn_staz4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/lb_stazione"
+                android:layout_marginLeft="10dp"
+                android:layout_toRightOf="@id/btn_staz3"
+                android:background="@drawable/btn_toggle_rettangolare"
+                android:padding="10dp"
+                android:text="@string/sel_marca4"
+                android:textOff="@string/sel_marca4"
+                android:textOn="@string/sel_marca4" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="2" >
+
+            <TextView
+                android:id="@+id/lb_canale"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:text="@string/lb_canale"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <ToggleButton
+                android:id="@+id/btn_chl"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:background="@drawable/btn_toggle_rettangolare"
+                android:padding="10dp"
+                android:layout_below="@id/lb_canale"
+                android:text="@string/lb_chl"
+                android:textOn="@string/lb_chl"
+                android:textOff="@string/lb_chl" />
+
+            <ToggleButton
+                android:id="@+id/btn_chs"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="false"
+                android:layout_below="@id/lb_canale"
+                android:layout_marginLeft="10dp"
+                android:layout_toRightOf="@id/btn_chl"
+                android:background="@drawable/btn_toggle_rettangolare"
+                android:padding="10dp"
+                android:text="@string/lb_chs"
+                android:textOff="@string/lb_chs"
+                android:textOn="@string/lb_chs" />
+
+        </RelativeLayout>
+
+    </LinearLayout> -->
+
+    <Button
+        android:id="@+id/conferma_marca"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/btn_rettangolare"
+        android:padding="10dp"
+        android:text="@string/lb_conferma_marca"
+        android:textColor="@color/scritte_bottoni" />
+
+</LinearLayout> 

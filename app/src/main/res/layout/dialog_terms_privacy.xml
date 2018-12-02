@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:minWidth="300dp">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="1"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="20dp">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="@string/d_terms_privacy_terms_of_service_and_privacy_policy"
+            android:id="@+id/textView"
+            android:textColor="#ffb8b8b8"
+            android:layout_weight="1"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="20dp" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:text="@string/d_terms_privacy_ok"
+            android:id="@+id/buttonOk"
+            android:textAppearance="@android:style/TextAppearance.Small"
+            android:layout_gravity="right"
+            android:paddingLeft="20dp"
+            android:background="@drawable/btn_primary"
+            android:textStyle="bold"
+            android:paddingRight="20dp"
+            android:textColor="#ffffffff" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="#20ffffff" />
+
+    <WebView
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/webTermsPrivacyView"
+        android:focusableInTouchMode="true"
+        android:layout_gravity="center" />
+
+</LinearLayout>

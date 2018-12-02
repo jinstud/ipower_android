@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="scegli_ls">
+        <item>Canale L1</item>
+        <item>Canale L2</item>
+    </string-array>
+    
+    <string-array name="scegli_stazione">
+        <item>Stazione 1</item>
+        <item>Stazione 2</item>
+        <item>Stazione 3</item>
+        <item>Stazione 4</item>
+        <item>Stazione 5</item>
+    </string-array>
+
+    <string-array name="footswitch_modes">
+        <item>Continuous</item>
+        <item>Toggle</item>
+    </string-array>
+
+    <string-array name="footswitch_mode_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="languages">
+        <item>English</item>
+        <item>Italiano</item>
+        <item>Русский</item>
+    </string-array>
+
+    <string-array name="language_values">
+        <item>en</item>
+        <item>it</item>
+        <item>ru</item>
+    </string-array>
+    
+</resources>

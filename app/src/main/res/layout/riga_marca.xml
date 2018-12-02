@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+
+     <TextView
+         android:id="@+id/item_marca"
+         android:layout_width="0dp"
+         android:layout_height="wrap_content"
+         android:layout_gravity="center_vertical"
+         android:layout_weight="20"
+         android:padding="10dip"
+         android:text=""
+         android:textAppearance="?android:attr/textAppearanceMedium"
+         android:textSize="22sp" />
+
+     <TextView
+         android:id="@+id/volt_marca"
+         android:layout_width="0dp"
+         android:layout_height="wrap_content"
+         android:layout_gravity="center_vertical"
+         android:layout_marginRight="5dp"
+         android:layout_weight="10"
+         android:gravity="right"
+         android:padding="3dp"
+         android:text=""
+         android:textAppearance="?android:attr/textAppearanceMedium" />
+
+     <Button
+         android:id="@+id/sel_LS"
+         android:layout_width="0dp"
+         android:layout_height="wrap_content"
+         android:layout_gravity="center_vertical"
+         android:layout_weight="0.2"
+         android:background="@drawable/btn_rettangolare"
+         android:enabled="false"
+         android:padding="10dp"
+         android:textColor="@color/scritte_bottoni"
+         android:visibility="invisible" />
+
+     <Button
+         android:id="@+id/sel_stazione"
+         android:layout_width="0dp"
+         android:layout_height="wrap_content"
+         android:layout_gravity="center_vertical"
+         android:layout_marginLeft="5dp"
+         android:layout_marginRight="5dp"
+         android:layout_weight="7"
+         android:background="@drawable/btn_rettangolare"
+         android:padding="10dp"
+         android:textColor="@color/scritte_bottoni" />
+
+</LinearLayout>

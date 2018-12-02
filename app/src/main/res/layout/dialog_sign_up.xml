@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingTop="20dp"
+    android:paddingBottom="20dp">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:weightSum="1"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp">
+
+        <EditText
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:ems="10"
+            android:id="@+id/editFirstName"
+            android:layout_weight="0.5"
+            android:layout_marginRight="5dp"
+            android:hint="@string/d_sign_up_first_name" />
+
+        <EditText
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:ems="10"
+            android:id="@+id/editLastName"
+            android:layout_weight="0.5"
+            android:layout_marginLeft="5dp"
+            android:hint="@string/d_sign_up_last_name" />
+    </LinearLayout>
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:ems="10"
+        android:id="@+id/editEmail"
+        android:layout_marginBottom="10dp"
+        android:hint="@string/d_sign_up_email"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp" />
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:id="@+id/editPassword"
+        android:layout_marginBottom="20dp"
+        android:hint="@string/d_sign_up_password"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="#20ffffff"
+        android:layout_marginBottom="20dp" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="1"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp">
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@string/d_sign_up_terms_of_service_and_privacy_policy"
+            android:id="@+id/buttonTermsAndPrivacy"
+            android:background="@android:color/transparent"
+            android:textColor="#ffaeaeae"
+            android:textAppearance="@android:style/TextAppearance.Small"
+            android:layout_weight="0.5"
+            android:layout_gravity="center_vertical|left"
+            android:gravity="center_vertical|left"
+            android:paddingLeft="5dp" />
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:layout_gravity="center_vertical">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:text="@string/d_sign_up_sign_up"
+                android:id="@+id/buttonSignUp"
+                android:layout_gravity="right"
+                android:background="@drawable/btn_primary"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:textStyle="bold"
+                android:textColor="#ffffffff"
+                android:textAppearance="@android:style/TextAppearance.Small" />
+        </FrameLayout>
+
+    </LinearLayout>
+</LinearLayout>

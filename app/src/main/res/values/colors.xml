@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_mean">#3b3b3b</color>
+    <color name="centro_cornice">#03f</color>
+    <color name="lato_cornice">#0E80CC</color>
+    <color name="lato_btn_p">#700ecc</color>
+    <color name="centro_btn_p">#8a0ecc</color>
+    <color name="lato_btn_np">#113a5c</color>
+    <color name="centro_btn_np">#11538a</color>
+    <color name="lato_btn_np_l">#413a5c</color>
+    <color name="centro_btn_np_l">#41538a</color>
+    <color name="lato_btn_np_s">#513a5c</color>
+    <color name="centro_btn_np_s">#51538a</color>
+    <color name="bg_menu">#3b3b3b</color>
+    <color name="btn_sel">#F01010</color>
+    <color name="btn_no_sel">#a0a0a0</color>
+    <color name="bianco">#ffffff</color>
+    <color name="grigio">#ffffff</color>
+    <color name="scritte_bottoni">#ffffff</color>
+    
+</resources>
