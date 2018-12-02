@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/Users/Nek/Documents/Work/Android/iPowerTattoo/app/src/main/res/values-it/arrays.xml -->
+    <eat-comment/>
+    <string-array name="footswitch_mode_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="footswitch_modes">
+        <item>Continuous</item>
+        <item>Toggle</item>
+    </string-array>
+    <string-array name="language_values">
+        <item>en</item>
+        <item>it</item>
+        <item>ru</item>
+    </string-array>
+    <string-array name="languages">
+        <item>English</item>
+        <item>Italiano</item>
+        <item>Русский</item>
+    </string-array>
+    <string-array name="scegli_ls">
+        <item>Canale L1</item>
+        <item>Canale L2</item>
+    </string-array>
+    <string-array name="scegli_stazione">
+        <item>Stazione 1</item>
+        <item>Stazione 2</item>
+        <item>Stazione 3</item>
+        <item>Stazione 4</item>
+        <item>Stazione 5</item>
+    </string-array>
+    <!-- From: file:/Users/Nek/Documents/Work/Android/iPowerTattoo/app/src/main/res/values-it/strings.xml -->
+    <eat-comment/>
+    <string name="APP_ID">709209805865682</string>
+    <string name="a_main_connected">Connected</string>
+    <string name="a_main_disconnected">Disconnected</string>
+    <string name="a_welcome_continue_with_facebook">CONTINUE WITH FACEBOOK</string>
+    <string name="a_welcome_continue_with_google">CONTINUE WITH GOOGLE</string>
+    <string name="a_welcome_have_an_account">Have an account?</string>
+    <string name="a_welcome_logo">iPower Tattoo</string>
+    <string name="a_welcome_sign_in">SIGN IN</string>
+    <string name="a_welcome_sign_up_using_email">SIGN UP USING EMAIL</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="add_marca">Aggiungi</string>
+    <string name="app_name">iPower Tattoo</string>
+    <string name="auth_email_not_found">Account with provided email address is not found.</string>
+    <string name="auth_error_account_exists">An account with this email address already exists.</string>
+    <string name="auth_error_connection_failed">Connection failed. Please check your internet connection or try again later.</string>
+    <string name="auth_error_email">E-Mail Address does not appear to be valid!</string>
+    <string name="auth_error_firstname">First Name must be between 1 and 32 characters!</string>
+    <string name="auth_error_incorrect_email_or_password">Incorrect email or password.</string>
+    <string name="auth_error_lastname">Last Name must be between 1 and 32 characters!</string>
+    <string name="auth_error_password">Password must be between 4 and 20 characters!</string>
+    <string name="auth_reset_instructions">An email with reset password instructions is sent to your email address.</string>
+    <string name="auth_sign_out">Sign Out</string>
+    <string name="auth_sign_out_ask">Are you sure you want to sign out?</string>
+    <string name="auth_success_sign_up">Account created successfully. \nThank you for signing up with iPower Tattoo!</string>
+    <string name="bt_duty">Duty</string>
+    <string name="bt_foot">Pedale</string>
+    <string name="bt_gps">GPS</string>
+    <string name="bt_lingua">Lingua</string>
+    <string name="bt_password">Password e \nNome Scheda</string>
+    <string name="bt_sign_out">Sign Out</string>
+    <string name="cambia_nome">Cambia nome</string>
+    <string name="cambia_pswd">Cambia password</string>
+    <string name="cancel_mod">X</string>
+    <string name="cinese">中国</string>
+    <string name="coming_soon">coming soon…</string>
+    <!-- From: file:/Users/Nek/Documents/Work/Android/iPowerTattoo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-it/base_strings.xml -->
+    <eat-comment/>
+    <string msgid="2785372108150982144" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> richiede uno o più servizi di Google Play che non sono attualmente disponibili. Contatta lo sviluppatore per ricevere assistenza."</string>
+    <string msgid="7334167077229901382" name="common_google_play_services_enable_button">"Attiva Google Play Services"</string>
+    <string msgid="2016066508617425489" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> non funzionerà se non attivi Google Play Services."</string>
+    <string msgid="4763733806837472840" name="common_google_play_services_enable_title">"Attiva Google Play Services"</string>
+    <string msgid="5765996826213593005" name="common_google_play_services_install_button">"Installa Google Play Services"</string>
+    <string msgid="1545874412485515659" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g> non funzionerà senza Google Play Services, non presente sul tuo telefono."</string>
+    <string msgid="2742131317258851812" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g> non funzionerà senza Google Play Services, non presente sul tuo tablet."</string>
+    <string msgid="2110712637922504348" name="common_google_play_services_install_title">"Installa Google Play Services"</string>
+    <string msgid="8004809446015217370" name="common_google_play_services_invalid_account_text">"L\'account specificato non esiste su questo dispositivo. Scegli un altro account."</string>
+    <string msgid="9894539456463288" name="common_google_play_services_invalid_account_title">"Account non valido"</string>
+    <string msgid="2602915190038884860" name="common_google_play_services_network_error_text">"È necessaria una connessione dati per connettersi a Google Play Services."</string>
+    <string msgid="5183831421651758225" name="common_google_play_services_network_error_title">"Errore di rete"</string>
+    <string msgid="3936796119014022295" name="common_google_play_services_notification_ticker">"Errore Google Play Services"</string>
+    <string msgid="6951442375899151085" name="common_google_play_services_restricted_profile_text">"L\'accesso agli account da un profilo con limitazioni non è supportato."</string>
+    <string msgid="4958149393843193760" name="common_google_play_services_restricted_profile_title">"Profilo con limitazioni"</string>
+    <string msgid="59739986196915578" name="common_google_play_services_sign_in_failed_text">"Errore durante l\'accesso all\'account specificato. Scegli un altro account."</string>
+    <string msgid="8431204498860131150" name="common_google_play_services_sign_in_failed_title">"Accesso non riuscito"</string>
+    <!-- From: file:/Users/Nek/Documents/Work/Android/iPowerTattoo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/res/values-it/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="7170719956698345984" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> sta riscontrando problemi con Google Play Services. Se il problema persiste, contatta lo sviluppatore per ricevere assistenza."</string>
+    <!-- From: file:/Users/Nek/Documents/Work/Android/iPowerTattoo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-it/base_strings.xml -->
+    <eat-comment/>
+    <string msgid="4291190028362992831" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> si basa su Google Play Services, che non è supportato sul tuo dispositivo. Contatta il produttore per ricevere assistenza."</string>
+    <string msgid="909734065366822541" name="common_google_play_services_unsupported_title">"Google Play Services"</string>
+    <string msgid="2221302284291941971" name="common_google_play_services_update_button">"Aggiorna"</string>
+    <string msgid="6230553430311881723" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> non funzionerà se non aggiorni Google Play Services."</string>
+    <string msgid="2926201203597631481" name="common_google_play_services_update_title">"Aggiorna Google Play Services"</string>
+    <string msgid="1576144479907495032" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> non funzionerà senza Google Play Services, attualmente in fase di aggiornamento."</string>
+    <string msgid="1604540693139938838" name="common_google_play_services_updating_title">"Aggiornamento di Google Play Services"</string>
+    <string msgid="8334920661858223093" name="common_google_play_services_wear_update_text">"È richiesta una nuova versione di Google Play Services. L\'aggiornamento automatico verrà eseguito a breve."</string>
+    <string msgid="311697239335516384" name="common_open_on_phone">"Apri sul telefono"</string>
+    <string msgid="3156914698180786012" name="common_signin_button_text">"Accedi"</string>
+    <string msgid="1483290677806110088" name="common_signin_button_text_long">"Accedi con Google"</string>
+    <!-- From: file:/Users/Nek/Documents/Work/Android/iPowerTattoo/app/src/main/res/values-it/strings.xml -->
+    <eat-comment/>
+    <string name="conferma_foot">Conferma Pedale</string>
+    <string name="conferma_imposta_pswd">Conferma imposta password</string>
+    <string name="conferma_language">Conferma lingua</string>
+    <string name="conferma_nuovo_nome">Conferma nuovo nome</string>
+    <string name="conferma_pswd_diversa">Nuova password non ripetuta correttamente</string>
+    <string name="conferma_pswd_nuova">Conferma nuova password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="connecting_dots">Connecting…</string>
+    <string name="connetti">Cnt</string>
+    <string name="continuous">Pedale On/Off</string>
+    <string name="current_password">Current password</string>
+    <string name="d_password_reset_back">Back</string>
+    <string name="d_password_reset_email">Email</string>
+    <string name="d_password_reset_forgot_your_password">Forgot your password?</string>
+    <string name="d_password_reset_reset">RESET</string>
+    <string name="d_select_device_connect">CONNECT</string>
+    <string name="d_select_device_select_ipower_device_to_connect">Select iPower device to connect</string>
+    <string name="d_sign_in_email">Email</string>
+    <string name="d_sign_in_facebook">FACEBOOK</string>
+    <string name="d_sign_in_forgot_your_password">Forgot your password?</string>
+    <string name="d_sign_in_google">GOOGLE</string>
+    <string name="d_sign_in_password">Password</string>
+    <string name="d_sign_in_sign_in">SIGN IN</string>
+    <string name="d_sign_up_email">Email</string>
+    <string name="d_sign_up_first_name">First name</string>
+    <string name="d_sign_up_last_name">Last name</string>
+    <string name="d_sign_up_password">Password</string>
+    <string name="d_sign_up_sign_up">SIGN UP</string>
+    <string name="d_sign_up_terms_of_service_and_privacy_policy">Terms of service and privacy policy</string>
+    <string name="d_terms_privacy_ok">OK</string>
+    <string name="d_terms_privacy_terms_of_service_and_privacy_policy">Terms of service and privacy policy</string>
+    <string name="device_connection_error">Bluetooth connection failed. Problem may appear because of continuously repeated connections. Please try to connect again after few minutes.</string>
+    <string name="device_incorrect_password">Incorrect iPower device password.</string>
+    <string name="device_name_not_connected">You must be connected to the device to change it\'s name.</string>
+    <string name="device_not_found">No iPower devices found. Please make sure that iPower device is powered on and try to connect again.</string>
+    <string name="device_timeout">iPower device didn\'t respond within the timeout period. Please try to connect again.</string>
+    <string name="disconnetti">Dscnt</string>
+    <string name="error_password_change_timeout">Password change confirmation was not received from iPower device.</string>
+    <string name="error_password_current">Please provide current iPower device password.</string>
+    <string name="error_password_incorrect">Incorrect iPower device password.</string>
+    <string name="error_password_length">Password length must be between 1 and 15 characters long.</string>
+    <string name="error_password_match">Password does not match the confirm password.</string>
+    <string name="error_password_response_current">Incorrect iPower device current password. New password was not applied.</string>
+    <string name="error_password_response_timeout">Password change confirmation was not received from iPower device.</string>
+    <string name="esegui_cambio_pswd">Esegui cambio password</string>
+    <string name="francese">Français</string>
+    <string name="free_control">Free control</string>
+    <string name="giapponese">日本人</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hint_nome_marca">Nome apparecchio</string>
+    <string name="imposta_pswd">Imposta password</string>
+    <string name="inglese">English</string>
+    <string name="inserire_nome">Inserire nome</string>
+    <string name="inserire_pswd">Inserire password</string>
+    <string name="italiano">Italiano</string>
+    <string name="lb_annulla">Annulla</string>
+    <string name="lb_canale">Canale</string>
+    <string name="lb_cc">c.c.</string>
+    <string name="lb_chl">L1</string>
+    <string name="lb_chs">L2</string>
+    <string name="lb_conferma_marca">Conferma</string>
+    <string name="lb_devices">Dispositivi</string>
+    <string name="lb_duty">Duty</string>
+    <string name="lb_foot">Foot</string>
+    <string name="lb_hz">Speed</string>
+    <string name="lb_liner">LINER</string>
+    <string name="lb_list_device">Lista dispositivi</string>
+    <string name="lb_menu">Menu</string>
+    <string name="lb_new_marca">Impostazioni</string>
+    <string name="lb_setting">Impostazioni\n Apparecchi</string>
+    <string name="lb_shader">SHADER</string>
+    <string name="lb_stazione">Stazione</string>
+    <string name="loading_dots">Loading…</string>
+    <string name="meno">-</string>
+    <string name="modo_pedale">Pedale</string>
+    <string name="name">Name</string>
+    <string name="new_password">New password</string>
+    <string name="no_cambio_nome">Non è possibile cambiare nome senza autenticazione</string>
+    <string name="no_cambio_pswd">Non è possibile cambiare password senza autenticazione</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+    <string name="password">Password</string>
+    <string name="password_changed">iPower device password changed successfully.</string>
+    <string name="piu">+</string>
+    <string name="portoghese">Português</string>
+    <string name="processing_dots">Processing…</string>
+    <string name="pswd_attuale">Password Attuale</string>
+    <string name="pswd_lunga">Massimo numero caratteri = 15</string>
+    <string name="pswd_nuova">Nuova password</string>
+    <string name="russo">Pусский</string>
+    <string name="scegli_ls">Scegli canale</string>
+    <string name="scegli_stazione">Scegli stazione</string>
+    <string name="searching_dots">Searching…</string>
+    <string name="sel_marca1"/>
+    <string name="sel_marca2"/>
+    <string name="sel_marca3"/>
+    <string name="sel_marca4"/>
+    <string name="sel_marca5"/>
+    <string name="spagnolo">Español</string>
+    <string name="tb_sel1_off"/>
+    <string name="tb_sel1_on"/>
+    <string name="tb_sel2_off"/>
+    <string name="tb_sel2_on"/>
+    <string name="tedesco">Deutsch</string>
+    <string name="timer">Timer</string>
+    <string name="title_activity_foot">Pedale</string>
+    <string name="title_activity_language_tat">LanguageTat</string>
+    <string name="title_activity_lista_device_tata">ListaDeviceTata</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_menu_tat">MenuTat</string>
+    <string name="title_activity_password_tat">PasswordTat</string>
+    <string name="title_activity_setting_tat">SettingTat</string>
+    <string name="title_activity_settings">Settings </string>
+    <string name="title_activity_time_tracking">Time Tracking</string>
+    <string name="title_activity_welcome"/>
+    <string name="toggle">Pedale Continuo</string>
+    <string name="toggle_phone">Pedale Remoto</string>
+    <string name="volt">V</string>
+    <string name="vuoto"/>
+</resources>

@@ -1,0 +1,27 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nikolai/Documents/iPowerTattoo/facebook/AndroidManifest.xml:18:1-21:12
+INJECTED from /Users/nikolai/Documents/iPowerTattoo/facebook/AndroidManifest.xml:18:1-21:12
+INJECTED from /Users/nikolai/Documents/iPowerTattoo/facebook/AndroidManifest.xml:18:1-21:12
+	package
+		ADDED from /Users/nikolai/Documents/iPowerTattoo/facebook/AndroidManifest.xml:19:7-37
+		INJECTED from /Users/nikolai/Documents/iPowerTattoo/facebook/AndroidManifest.xml
+		INJECTED from /Users/nikolai/Documents/iPowerTattoo/facebook/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nikolai/Documents/iPowerTattoo/facebook/AndroidManifest.xml:18:11-69
+application
+ADDED from /Users/nikolai/Documents/iPowerTattoo/facebook/AndroidManifest.xml:20:5-19
+uses-sdk
+INJECTED from /Users/nikolai/Documents/iPowerTattoo/facebook/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nikolai/Documents/iPowerTattoo/facebook/AndroidManifest.xml
+INJECTED from /Users/nikolai/Documents/iPowerTattoo/facebook/AndroidManifest.xml
+INJECTED from /Users/nikolai/Documents/iPowerTattoo/facebook/AndroidManifest.xml
+INJECTED from /Users/nikolai/Documents/iPowerTattoo/facebook/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/nikolai/Documents/iPowerTattoo/facebook/AndroidManifest.xml
+		ADDED from /Users/nikolai/Documents/iPowerTattoo/facebook/AndroidManifest.xml
+		INJECTED from /Users/nikolai/Documents/iPowerTattoo/facebook/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nikolai/Documents/iPowerTattoo/facebook/AndroidManifest.xml
+		ADDED from /Users/nikolai/Documents/iPowerTattoo/facebook/AndroidManifest.xml
+		INJECTED from /Users/nikolai/Documents/iPowerTattoo/facebook/AndroidManifest.xml

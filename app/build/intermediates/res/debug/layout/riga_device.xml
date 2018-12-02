@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="20"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/nome_device"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dip"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textSize="22sp" />
+
+        <TextView
+            android:id="@+id/indirizzo_device"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dip"
+            android:textAppearance="?android:attr/textAppearanceMedium" 
+            android:textSize="22sp"/>
+
+    </LinearLayout>
+
+     <Button
+         android:id="@+id/connetti_device"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_gravity="center_vertical"
+         android:layout_margin="5dp"
+         android:layout_weight="3"
+         android:background="@drawable/btn_rettangolare"        
+         android:textColor="@color/scritte_bottoni"
+         android:text="@string/connetti"
+         android:padding="10dp" />
+
+</LinearLayout>
+<!-- From: file:/Users/Nek/Documents/Work/Android/iPowerTattoo/app/src/main/res/layout/riga_device.xml -->

@@ -1,0 +1,104 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.ipower.tattoo.WelcomeActivity">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageLogoView"
+        android:src="@drawable/logo"
+        android:layout_gravity="center"
+        android:contentDescription="@string/a_welcome_logo"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:splitMotionEvents="false"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/loginBlock"
+        android:paddingLeft="40dp"
+        android:paddingRight="40dp"
+        android:paddingBottom="20dp"
+        android:visibility="invisible">
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:text="@string/a_welcome_continue_with_facebook"
+            android:id="@+id/buttonFacebook"
+            android:layout_gravity="center_horizontal"
+            android:textColor="#ffffffff"
+            android:background="@drawable/color_facebook"
+            android:layout_marginBottom="15dp"
+            android:textStyle="bold"
+            android:textAppearance="@android:style/TextAppearance.Small" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:text="@string/a_welcome_continue_with_google"
+            android:id="@+id/buttonGoogle"
+            android:textColor="#ffffffff"
+            android:background="@drawable/color_google"
+            android:layout_marginBottom="15dp"
+            android:textStyle="bold"
+            android:textAppearance="@android:style/TextAppearance.Small" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:text="@string/a_welcome_sign_up_using_email"
+            android:id="@+id/buttonSignUp"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/color_email"
+            android:textStyle="bold"
+            android:textAppearance="@android:style/TextAppearance.Holo.Small"
+            android:textColor="#ff141414" />
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:gravity="center">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="@string/a_welcome_have_an_account"
+                android:id="@+id/textView5"
+                android:layout_gravity="center_vertical|right"
+                android:textAlignment="gravity"
+                android:gravity="center_vertical|left"
+                android:layout_marginRight="5dp" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:text="@string/a_welcome_sign_in"
+                android:id="@+id/buttonSignIn"
+                android:textStyle="bold"
+                android:textColor="#ffffffff"
+                android:textAppearance="@android:style/TextAppearance.Small"
+                android:background="@android:color/transparent"
+                android:singleLine="false"
+                android:textAlignment="viewStart"
+                android:layout_alignParentTop="true"
+                android:layout_toEndOf="@+id/textView5"
+                android:layout_marginLeft="5dp" />
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>
+<!-- From: file:/Users/Nek/Documents/Work/Android/iPowerTattoo/app/src/main/res/layout/activity_welcome.xml -->

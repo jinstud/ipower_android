@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Nek/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/Nek/Documents/Work/Android/iPowerTattoo/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-b1a138c8908b5bd885d80e803be10e53bbc5b535.jar" />
+    </item>
+    <item
+        jar="/Users/Nek/Documents/Work/Android/iPowerTattoo/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.23.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="96a08acffc0d3cf8425107b82bc4009a1f82a66c">
+        <dex dex="/Users/Nek/Documents/Work/Android/iPowerTattoo/app/build/intermediates/pre-dexed/debug/classes-cf88656f49f658efb5a92232dade579899f224d9.jar" />
+    </item>
+    <item
+        jar="/Users/Nek/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0-alpha1/support-annotations-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="/Users/Nek/Documents/Work/Android/iPowerTattoo/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0-alpha1-0efee8b8bb2ca517da9727a744201df8ca56c9b9.jar" />
+    </item>
+    <item
+        jar="/Users/Nek/Documents/Work/Android/iPowerTattoo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.4.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="/Users/Nek/Documents/Work/Android/iPowerTattoo/app/build/intermediates/pre-dexed/debug/classes-41ec0d32e5901de07a6a5331b074969c705ea625.jar" />
+    </item>
+    <item
+        jar="/Users/Nek/Documents/Work/Android/iPowerTattoo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/Nek/Documents/Work/Android/iPowerTattoo/app/build/intermediates/pre-dexed/debug/classes-03dc20a7fcfd699482ac677f88df452843d3dd60.jar" />
+    </item>
+    <item
+        jar="/Users/Nek/Documents/Work/Android/iPowerTattoo/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.23.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="96a08acffc0d3cf8425107b82bc4009a1f82a66c">
+        <dex dex="/Users/Nek/Documents/Work/Android/iPowerTattoo/app/build/intermediates/pre-dexed/debug/classes-cf88656f49f658efb5a92232dade579899f224d9.jar" />
+    </item>
+    <item
+        jar="/Users/Nek/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/Nek/Documents/Work/Android/iPowerTattoo/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-b1a138c8908b5bd885d80e803be10e53bbc5b535.jar" />
+    </item>
+    <item
+        jar="/Users/Nek/Documents/Work/Android/iPowerTattoo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="/Users/Nek/Documents/Work/Android/iPowerTattoo/app/build/intermediates/pre-dexed/debug/classes-6972f47b55fcb5102b2a4327a467f3be600ac2af.jar" />
+    </item>
+    <item
+        jar="/Users/Nek/Documents/Work/Android/iPowerTattoo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha1/libs/internal_impl-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="/Users/Nek/Documents/Work/Android/iPowerTattoo/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0-alpha1-f5fe915f5df2d45ef2c347e01c5a5ac5f63fe3fd.jar" />
+    </item>
+    <item
+        jar="/Users/Nek/Documents/Work/Android/iPowerTattoo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="/Users/Nek/Documents/Work/Android/iPowerTattoo/app/build/intermediates/pre-dexed/debug/classes-8ef3d8e9fb7831f0f0369c520cafbdfcce9edcfc.jar" />
+    </item>
+    <item
+        jar="/Users/Nek/Documents/Work/Android/iPowerTattoo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/Nek/Documents/Work/Android/iPowerTattoo/app/build/intermediates/pre-dexed/debug/classes-3383b27a830f9013eef6bdefc1f89fae5bbafcb1.jar" />
+    </item>
+    <item
+        jar="/Users/Nek/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/Nek/Documents/Work/Android/iPowerTattoo/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9-eb4a693bb75eaea651b128fa84869c7b87c29f41.jar" />
+    </item>
+    <item
+        jar="/Users/Nek/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.4.1.2/64950d33e2d3095cc831b414063bea45524103d4/httpclient-4.4.1.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="64950d33e2d3095cc831b414063bea45524103d4">
+        <dex dex="/Users/Nek/Documents/Work/Android/iPowerTattoo/app/build/intermediates/pre-dexed/debug/httpclient-4.4.1.2-78b42b126ee1b53880bf8eb69db31bd8d4d3961c.jar" />
+    </item>
+    <item
+        jar="/Users/Nek/Documents/Work/Android/iPowerTattoo/app/build/intermediates/exploded-aar/com.kbeanie/image-chooser-library/1.6.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="550e2042cde0418f61be3813e962d631d388ce5e">
+        <dex dex="/Users/Nek/Documents/Work/Android/iPowerTattoo/app/build/intermediates/pre-dexed/debug/classes-f1b1603ce2083951783ff9ff307ca198fb573db7.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,4 @@
+#Mon Dec 03 00:51:39 EET 2018
+base.0=/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

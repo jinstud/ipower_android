@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/timeTrackingSwitch"
+        android:title=""
+        android:showAsAction="always"
+        android:actionLayout="@layout/switch_layout"/>
+</menu><!-- From: file:/Users/Nek/Documents/Work/Android/iPowerTattoo/app/src/main/res/menu/menu_time_tracking.xml -->

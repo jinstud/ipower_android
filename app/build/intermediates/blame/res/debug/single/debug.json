@@ -1,0 +1,2082 @@
+[
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_button_like_icon_selected.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-hdpi-v4/com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/menu_menu_terms_and_privacy.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/menu/menu_terms_and_privacy.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-xhdpi-v4/com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_menu_on.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/menu_on.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_activity_password_tat.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/layout/activity_password_tat.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_color_email.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/color_email.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi__settings_preset_4.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-mdpi/_settings_preset_4.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_like_icon.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable/com_facebook_button_like_icon.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_seekbar_style.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/seekbar_style.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_common_full_open_on_phone.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-hdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxxhdpi__settings_liner.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xxxhdpi/_settings_liner.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_dialog_sign_up.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/layout/dialog_sign_up.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_plus_signin_btn_text_light_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xxhdpi/common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_button_like_background_selected.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-hdpi-v4/com_facebook_button_like_background_selected.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_m5_off.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/m5_off.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_button_grey_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-xhdpi-v4/com_facebook_button_grey_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi_common_google_signin_btn_icon_light_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-mdpi/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_com_facebook_usersettingsfragment.xml.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/layout/com_facebook_usersettingsfragment.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_btn_toggle_l1.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/btn_toggle_l1.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi_common_google_signin_btn_text_light_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-mdpi/common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_common_google_signin_btn_icon_light_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-hdpi/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-tvdpi_common_plus_signin_btn_text_dark_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-tvdpi/common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi_common_plus_signin_btn_icon_dark_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-mdpi/common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_common_plus_signin_btn_icon_light_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-hdpi/common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_button_blue_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-mdpi-v4/com_facebook_button_blue_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_bottom_2_off.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/bottom_2_off.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-tvdpi_ic_plusone_tall_off_client.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-plus-8.4.0.aar/b79278c617e53bee837848ad5b9576ca/res/drawable-tvdpi/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_btn_primary.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/btn_primary.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_central_up_on_.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/central_up_on_.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_plusone_standard_off_client.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-plus-8.4.0.aar/b79278c617e53bee837848ad5b9576ca/res/drawable-xxhdpi/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_black_xout.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-mdpi-v4/com_facebook_tooltip_black_xout.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_plusone_medium_off_client.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-plus-8.4.0.aar/b79278c617e53bee837848ad5b9576ca/res/drawable-xhdpi/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi_common_plus_signin_btn_icon_dark_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-mdpi/common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-tvdpi_common_google_signin_btn_text_light_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-tvdpi/common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_btn_rombo.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/btn_rombo.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi_common_google_signin_btn_text_light_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-mdpi/common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_plus_signin_btn_icon_light_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xxhdpi/common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/menu_menu_welcome.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/menu/menu_welcome.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_preview_predal_off.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/preview_predal_off.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_central_up_on.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/central_up_on.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_google_signin_btn_icon_light_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xxhdpi/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_blue_background.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-mdpi-v4/com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_button_blue_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-xhdpi-v4/com_facebook_button_blue_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_preview_choose_on.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/preview_choose_on.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi__settings_device_password.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-mdpi/_settings_device_password.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_central_down_on_.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/central_down_on_.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_plus_signin_btn_icon_dark_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xxhdpi/common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_black_background.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-mdpi-v4/com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_central_right_on_.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/central_right_on_.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_black_xout.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-hdpi-v4/com_facebook_tooltip_black_xout.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_blue_background.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_black_background.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-xhdpi-v4/com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_btn_machine1.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/btn_machine1.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-tvdpi_common_full_open_on_phone.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-tvdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_central_left_on_.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/central_left_on_.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi_common_plus_signin_btn_text_light_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xhdpi/common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi_common_google_signin_btn_text_dark_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xhdpi/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_common_plus_signin_btn_text_light_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-hdpi/common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_common_google_signin_btn_icon_light_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-hdpi/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_blue_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable/com_facebook_button_blue_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi_common_plus_signin_btn_icon_light_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-mdpi/common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_blue_topnub.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-hdpi-v4/com_facebook_tooltip_blue_topnub.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_btn_preview_minus.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/btn_preview_minus.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-hdpi-v4/com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi_common_google_signin_btn_icon_light_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xhdpi/common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-tvdpi_ic_plusone_medium_off_client.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-plus-8.4.0.aar/b79278c617e53bee837848ad5b9576ca/res/drawable-tvdpi/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi__settings_preset_3.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xxhdpi/_settings_preset_3.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_switch_layout.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/layout/switch_layout.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_button_like_pressed.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-hdpi-v4/com_facebook_button_like_pressed.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-tvdpi_common_google_signin_btn_text_dark_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-tvdpi/common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_blue_bottomnub.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-mdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_btn_preview_choose.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/btn_preview_choose.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi__settings_device_password.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xhdpi/_settings_device_password.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_like_background_selected.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable/com_facebook_button_like_background_selected.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_grey_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable/com_facebook_button_grey_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxxhdpi__settings_device_password_alt.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xxxhdpi/_settings_device_password_alt.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_plus_signin_btn_text_light_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xxhdpi/common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi__settings_preset_5.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xhdpi/_settings_preset_5.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi_common_plus_signin_btn_icon_light_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xhdpi/common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_blue_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable/com_facebook_button_blue_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_com_facebook_button_like_background.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-xxhdpi-v4/com_facebook_button_like_background.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi_common_plus_signin_btn_text_light_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-mdpi/common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_preview_plus_off.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/preview_plus_off.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/anim_preview_down.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/anim/preview_down.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi__settings_device_password_alt.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-hdpi/_settings_device_password_alt.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi__settings_device_password_alt.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-mdpi/_settings_device_password_alt.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_m4_off.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/m4_off.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_com_facebook_picker_title_bar_stub.xml.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/layout/com_facebook_picker_title_bar_stub.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi_common_plus_signin_btn_icon_dark_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xhdpi/common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_button_like_icon_selected.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-xhdpi-v4/com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi_common_plus_signin_btn_icon_light_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xhdpi/common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_dialog_cambio_pswd.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/layout/dialog_cambio_pswd.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/menu_lista_device_tata.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/menu/lista_device_tata.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light.xml.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_blue.xml.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable/com_facebook_button_blue.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/menu_menu_tat.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/menu/menu_tat.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_common_plus_signin_btn_icon_dark_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-hdpi/common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_plusone_small_off_client.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-plus-8.4.0.aar/b79278c617e53bee837848ad5b9576ca/res/drawable-hdpi/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi__settings_device_password.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xxhdpi/_settings_device_password.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/xml_preferences.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi_common_plus_signin_btn_icon_light_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-mdpi/common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_com_facebook_picker_list_row.xml.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/layout/com_facebook_picker_list_row.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi__settings_language.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xhdpi/_settings_language.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_dark.xml.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi_common_google_signin_btn_icon_dark_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-mdpi/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_plusone_small_off_client.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-plus-8.4.0.aar/b79278c617e53bee837848ad5b9576ca/res/drawable-xhdpi/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_btn_photo.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/btn_photo.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxxhdpi__settings_device_password.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xxxhdpi/_settings_device_password.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-tvdpi_common_google_signin_btn_icon_dark_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-tvdpi/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi_logo.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_com_facebook_picker_top_button.xml.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable/com_facebook_picker_top_button.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_dialog_cambia_nome.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/layout/dialog_cambia_nome.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_button_blue_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-hdpi-v4/com_facebook_button_blue_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_list_item_found_device.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/layout/list_item_found_device.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_common_google_signin_btn_text_dark_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-hdpi/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_plus_signin_btn_icon_light_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xxhdpi/common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_menu_off.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/menu_off.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_google_signin_btn_text_light_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xxhdpi/common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxxhdpi__settings_preset_2.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xxxhdpi/_settings_preset_2.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_activity_foot.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/layout/activity_foot.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi__settings_preset_1.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-hdpi/_settings_preset_1.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_dialog_terms_privacy.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/layout/dialog_terms_privacy.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_activity_language_tat.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/layout/activity_language_tat.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/menu_menu_time_tracking.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/menu/menu_time_tracking.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_google_signin_btn_icon_dark_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xxhdpi/common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_dialog_sign_in.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/layout/dialog_sign_in.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_common_plus_signin_btn_icon_dark.xml.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable/common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi__settings_preset_5.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-hdpi/_settings_preset_5.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_com_facebook_button_like_icon.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-xxhdpi-v4/com_facebook_button_like_icon.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_plus_signin_btn_text_dark_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xxhdpi/common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_com_facebook_search_bar_layout.xml.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/layout/com_facebook_search_bar_layout.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_logo.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi_common_google_signin_btn_icon_light_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xhdpi/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi__settings_language.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xxhdpi/_settings_language.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-tvdpi_common_plus_signin_btn_icon_light_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-tvdpi/common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-tvdpi_common_plus_signin_btn_text_dark_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-tvdpi/common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_like_pressed.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable/com_facebook_button_like_pressed.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_common_google_signin_btn_icon_light_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-hdpi/common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi__settings_footswitch.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xxhdpi/_settings_footswitch.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_com_facebook_profile_default_icon.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable/com_facebook_profile_default_icon.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_banner.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/banner.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_com_facebook_picker_list_selector_background_transition.xml.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable/com_facebook_picker_list_selector_background_transition.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_color_facebook.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/color_facebook.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_m3_off.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/m3_off.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi_common_google_signin_btn_text_light_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-mdpi/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_common_google_signin_btn_icon_dark_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-hdpi/common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark.xml.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_plusone_medium_off_client.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-plus-8.4.0.aar/b79278c617e53bee837848ad5b9576ca/res/drawable-mdpi/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_m5_on.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/m5_on.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi_common_plus_signin_btn_icon_light_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-mdpi/common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_com_facebook_friendpickerfragment.xml.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/layout/com_facebook_friendpickerfragment.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxxhdpi__settings_time.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xxxhdpi/_settings_time.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_common_ic_googleplayservices.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-hdpi/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi__settings_preset_1.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xhdpi/_settings_preset_1.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_preview_predal_on.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/preview_predal_on.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi__settings_shader.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xhdpi/_settings_shader.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxxhdpi__settings_preset_3.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xxxhdpi/_settings_preset_3.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_photo_preview_off.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/photo_preview_off.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_com_facebook_loginbutton_silver.xml.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable/com_facebook_loginbutton_silver.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_preview_l1_on.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/preview_l1_on.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi__settings_liner.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xxhdpi/_settings_liner.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-tvdpi_common_plus_signin_btn_text_light_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-tvdpi/common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_picker_magnifier.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-xhdpi-v4/com_facebook_picker_magnifier.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_com_facebook_top_background.xml.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable/com_facebook_top_background.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi_common_plus_signin_btn_icon_dark_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xhdpi/common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_activity_devices_list.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/layout/activity_devices_list.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi_common_google_signin_btn_icon_dark_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-mdpi/common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi__settings_preset_3.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-hdpi/_settings_preset_3.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi__settings_preset_2.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xhdpi/_settings_preset_2.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_activity_setting_tat.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/layout/activity_setting_tat.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark.xml.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_com_facebook_picker_list_section_header.xml.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/layout/com_facebook_picker_list_section_header.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxxhdpi__settings_device_name.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xxxhdpi/_settings_device_name.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_preview_choose_off.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/preview_choose_off.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_riga_marca.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/layout/riga_marca.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_dialog_new_marca.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/layout/dialog_new_marca.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi_common_google_signin_btn_icon_light_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xhdpi/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-tvdpi_ic_plusone_small_off_client.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-plus-8.4.0.aar/b79278c617e53bee837848ad5b9576ca/res/drawable-tvdpi/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxxhdpi__settings_preset_4.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xxxhdpi/_settings_preset_4.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_blue_xout.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-hdpi-v4/com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi_common_plus_signin_btn_text_dark_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-mdpi/common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-tvdpi_common_google_signin_btn_text_light_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-tvdpi/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi__settings_account.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-mdpi/_settings_account.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_common_plus_signin_btn_text_dark_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-hdpi/common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_check.xml.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable/com_facebook_button_check.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_sfondo1.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/sfondo1.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi_common_google_signin_btn_icon_dark_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xhdpi/common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_com_facebook_button_like_background_selected.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-xxhdpi-v4/com_facebook_button_like_background_selected.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-tvdpi_common_plus_signin_btn_icon_light_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-tvdpi/common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi_common_google_signin_btn_icon_light_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-mdpi/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_central_off_completo.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/central_off_completo.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_common_google_signin_btn_text_light_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-hdpi/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_light.xml.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_common_plus_signin_btn_text_dark.xml.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi_common_full_open_on_phone.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-mdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi_common_plus_signin_btn_icon_dark_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-mdpi/common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_button_blue_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-mdpi-v4/com_facebook_button_blue_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_plus_signin_btn_icon_dark_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xxhdpi/common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi__settings_time.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xhdpi/_settings_time.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi_common_plus_signin_btn_text_dark_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xhdpi/common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_btn_rettangolare_l.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/btn_rettangolare_l.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_google_signin_btn_icon_dark_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xxhdpi/common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_central_left_on.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/central_left_on.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_plusone_tall_off_client.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-plus-8.4.0.aar/b79278c617e53bee837848ad5b9576ca/res/drawable-xhdpi/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_plus_signin_btn_text_light_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xxhdpi/common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_plusone_standard_off_client.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-plus-8.4.0.aar/b79278c617e53bee837848ad5b9576ca/res/drawable-mdpi/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi__settings_preset_4.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xhdpi/_settings_preset_4.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi__settings_device_name.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xhdpi/_settings_device_name.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_inverse_icon.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-xhdpi-v4/com_facebook_inverse_icon.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_logo.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-xhdpi-v4/com_facebook_logo.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_activity_time_tracking.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/layout/activity_time_tracking.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_bottom_1_off.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/bottom_1_off.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-ldpi-v4_com_facebook_close.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-ldpi-v4/com_facebook_close.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_preview_plus_on.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/preview_plus_on.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi_common_google_signin_btn_text_dark_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xhdpi/common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_common_google_signin_btn_icon_dark_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-hdpi/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi__settings_footswitch.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xhdpi/_settings_footswitch.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_cornice.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/cornice.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi_common_plus_signin_btn_text_dark_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-mdpi/common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_dialog_list_device.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/layout/dialog_list_device.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_m4_on.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/m4_on.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_button_grey_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-hdpi-v4/com_facebook_button_grey_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_common_plus_signin_btn_text_dark_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-hdpi/common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-tvdpi_common_plus_signin_btn_icon_dark_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-tvdpi/common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-tvdpi_common_google_signin_btn_icon_dark_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-tvdpi/common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_google_signin_btn_icon_dark_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xxhdpi/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_com_facebook_list_section_header_background.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable/com_facebook_list_section_header_background.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi__settings_account.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-hdpi/_settings_account.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_com_facebook_picker_item_background.xml.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable/com_facebook_picker_item_background.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-tvdpi_common_plus_signin_btn_icon_light_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-tvdpi/common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_common_plus_signin_btn_icon_light_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-hdpi/common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_com_facebook_picker_list_selector.xml.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable/com_facebook_picker_list_selector.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_full_open_on_phone.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xxhdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_com_facebook_placepickerfragment.xml.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/layout/com_facebook_placepickerfragment.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_com_facebook_usersettingsfragment_background_gradient.xml.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable/com_facebook_usersettingsfragment_background_gradient.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi__settings_time.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xxhdpi/_settings_time.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_blue_topnub.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-mdpi-v4/com_facebook_tooltip_blue_topnub.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_com_facebook_profile_picture_blank_square.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable/com_facebook_profile_picture_blank_square.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-tvdpi_common_google_signin_btn_text_dark_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-tvdpi/common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_com_facebook_button_like_pressed.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-xxhdpi-v4/com_facebook_button_like_pressed.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi__settings_shader.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-mdpi/_settings_shader.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_common_plus_signin_btn_text_light_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-hdpi/common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_common_plus_signin_btn_icon_light.xml.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable/common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_plusone_tall_off_client.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-plus-8.4.0.aar/b79278c617e53bee837848ad5b9576ca/res/drawable-mdpi/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_blue_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable/com_facebook_button_blue_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_like_selected.xml.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable/com_facebook_button_like_selected.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi_common_google_signin_btn_icon_dark_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-mdpi/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-tvdpi_common_plus_signin_btn_text_dark_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-tvdpi/common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-tvdpi_common_google_signin_btn_text_light_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-tvdpi/common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-tvdpi_common_plus_signin_btn_icon_dark_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-tvdpi/common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi__settings_preset_1.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xxhdpi/_settings_preset_1.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_like_icon_selected.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable/com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-tvdpi_common_google_signin_btn_text_dark_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-tvdpi/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi__settings_preset_4.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-hdpi/_settings_preset_4.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_inverse_icon.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-hdpi-v4/com_facebook_inverse_icon.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_com_facebook_button_like_icon_selected.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-xxhdpi-v4/com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi_common_google_signin_btn_text_dark_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-mdpi/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi__settings_liner.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-mdpi/_settings_liner.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi_common_plus_signin_btn_text_light_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-mdpi/common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_activity_welcome.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_common_plus_signin_btn_text_dark_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-hdpi/common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi__settings_preset_3.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xhdpi/_settings_preset_3.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_btn_preview_l2.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/btn_preview_l2.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxxhdpi__settings_preset_5.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xxxhdpi/_settings_preset_5.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_blue_background.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-hdpi-v4/com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/color_common_plus_signin_btn_text_light.xml.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/color/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_logo.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-hdpi/logo.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_inverse_icon.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-mdpi-v4/com_facebook_inverse_icon.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_btn_toggle_l2.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/btn_toggle_l2.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi_common_google_signin_btn_text_light_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xhdpi/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi_logo.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-mdpi/logo.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_button_like_icon.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-xhdpi-v4/com_facebook_button_like_icon.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-ldpi_logo.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-ldpi/logo.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-mdpi-v4/com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_button_blue_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-hdpi-v4/com_facebook_button_blue_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/menu_language_tat.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/menu/language_tat.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi__settings_footswitch.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-hdpi/_settings_footswitch.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_central_down_on.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/central_down_on.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_button_blue_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-xhdpi-v4/com_facebook_button_blue_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_m2_on.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/m2_on.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_black_topnub.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-hdpi-v4/com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_plus_signin_btn_text_dark_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xxhdpi/common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-tvdpi_common_plus_signin_btn_icon_dark_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-tvdpi/common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_m1_on.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/m1_on.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_blue_xout.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_plusone_standard_off_client.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-plus-8.4.0.aar/b79278c617e53bee837848ad5b9576ca/res/drawable-hdpi/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_com_facebook_picker_title_bar.xml.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/layout/com_facebook_picker_title_bar.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_btn_preview_l1.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/btn_preview_l1.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_plus_signin_btn_icon_light_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xxhdpi/common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi_common_google_signin_btn_text_light_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xhdpi/common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_google_signin_btn_text_dark_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xxhdpi/common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/menu_lista_marche.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/menu/lista_marche.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/anim_preview_up.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/anim/preview_up.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi_common_plus_signin_btn_text_dark_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-mdpi/common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_com_facebook_tooltip_bubble.xml.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi_common_google_signin_btn_icon_dark_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-mdpi/common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/menu_password_tat.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/menu/password_tat.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_com_facebook_top_button.xml.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable/com_facebook_top_button.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi__settings_device_name.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-hdpi/_settings_device_name.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi_common_google_signin_btn_text_dark_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-mdpi/common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi_common_google_signin_btn_text_light_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xhdpi/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi_common_plus_signin_btn_text_dark_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-mdpi/common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi__settings_language.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-mdpi/_settings_language.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_logo.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xxxhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi_common_google_signin_btn_icon_dark_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xhdpi/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-tvdpi_common_plus_signin_btn_icon_dark_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-tvdpi/common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_com_facebook_close.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable/com_facebook_close.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_check_off.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable/com_facebook_button_check_off.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_preview_close_on.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/preview_close_on.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi__settings_device_password_alt.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xxhdpi/_settings_device_password_alt.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_button_like_pressed.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-xhdpi-v4/com_facebook_button_like_pressed.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_common_plus_signin_btn_icon_dark_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-hdpi/common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_footswitch_off.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/footswitch_off.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_button_blue_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-mdpi-v4/com_facebook_button_blue_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-tvdpi_common_google_signin_btn_icon_light_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-tvdpi/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi_common_plus_signin_btn_text_dark_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xhdpi/common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_com_facebook_profile_picture_blank_portrait.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable/com_facebook_profile_picture_blank_portrait.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi_common_plus_signin_btn_icon_light_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xhdpi/common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_common_plus_signin_btn_icon_light_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-hdpi/common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi__settings_preset_3.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-mdpi/_settings_preset_3.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi_common_google_signin_btn_icon_dark_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xhdpi/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_google_signin_btn_text_dark_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xxhdpi/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-tvdpi_common_google_signin_btn_icon_dark_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-tvdpi/common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi_common_google_signin_btn_icon_light_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-mdpi/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi__settings_preset_2.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xxhdpi/_settings_preset_2.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/menu_foot.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/menu/foot.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_com_facebook_picker_search_box.xml.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/layout/com_facebook_picker_search_box.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_picker_magnifier.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-hdpi-v4/com_facebook_picker_magnifier.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_common_plus_signin_btn_text_dark_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-hdpi/common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_google_signin_btn_text_dark_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xxhdpi/common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_button_blue_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-xhdpi-v4/com_facebook_button_blue_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_plus_signin_btn_icon_light_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xxhdpi/common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi_common_google_signin_btn_text_light_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xhdpi/common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_blue_xout.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-mdpi-v4/com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_common_google_signin_btn_icon_light_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-hdpi/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi__settings_preset_2.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-hdpi/_settings_preset_2.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_black_xout.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-xhdpi-v4/com_facebook_tooltip_black_xout.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-tvdpi_common_google_signin_btn_icon_light_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-tvdpi/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_black_topnub.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-xhdpi-v4/com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi_common_plus_signin_btn_text_dark_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xhdpi/common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_button_blue_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-hdpi-v4/com_facebook_button_blue_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi__settings_footswitch.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-mdpi/_settings_footswitch.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_picker_magnifier.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-mdpi-v4/com_facebook_picker_magnifier.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_common_google_signin_btn_icon_dark_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-hdpi/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi__settings_device_name.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-mdpi/_settings_device_name.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_plusone_medium_off_client.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-plus-8.4.0.aar/b79278c617e53bee837848ad5b9576ca/res/drawable-hdpi/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_m3_on.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/m3_on.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_common_google_signin_btn_text_light_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-hdpi/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_preview_l2_on.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/preview_l2_on.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-tvdpi_common_plus_signin_btn_text_dark_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-tvdpi/common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi_common_plus_signin_btn_icon_light_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xhdpi/common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-tvdpi_common_google_signin_btn_icon_dark_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-tvdpi/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_plus_signin_btn_icon_dark_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xxhdpi/common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_google_signin_btn_icon_light_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xxhdpi/common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_central_right_on.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/central_right_on.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-tvdpi_common_google_signin_btn_icon_light_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-tvdpi/common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_com_facebook_placepickerfragment_list_row.xml.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/layout/com_facebook_placepickerfragment_list_row.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_preview_minus_on.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/preview_minus_on.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_footswitch_on.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/footswitch_on.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi_common_google_signin_btn_icon_light_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-mdpi/common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_common_google_signin_btn_text_dark_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-hdpi/common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_common_plus_signin_btn_icon_light_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-hdpi/common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi__settings_preset_4.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xxhdpi/_settings_preset_4.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi_common_plus_signin_btn_icon_light_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-mdpi/common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_btn_preview_plus.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/btn_preview_plus.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_btn_rettangolare.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/btn_rettangolare.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_m1_off.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/m1_off.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_button_like_background.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-hdpi-v4/com_facebook_button_like_background.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi__settings_preset_5.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-mdpi/_settings_preset_5.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_common_google_signin_btn_text_dark_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-hdpi/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi__settings_account.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xhdpi/_settings_account.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_central_off_intero_.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/central_off_intero_.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_check_on.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable/com_facebook_button_check_on.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_blue_topnub.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_topnub.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_common_google_signin_btn_icon_dark_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-hdpi/common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_com_facebook_picker_list_selector_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable/com_facebook_picker_list_selector_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi_common_google_signin_btn_icon_dark_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xhdpi/common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_cornice_circolare.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/cornice_circolare.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi_common_google_signin_btn_text_dark_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-mdpi/common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_common_google_signin_btn_text_light_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-hdpi/common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi__settings_time.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-hdpi/_settings_time.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_blue_bottomnub.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-hdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_common_plus_signin_btn_text_light_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-hdpi/common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_dialog_password_reset.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/layout/dialog_password_reset.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_google_signin_btn_icon_light_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xxhdpi/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi_common_google_signin_btn_text_dark_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xhdpi/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_m2_off.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/m2_off.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_btn_toggle_circolare.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/btn_toggle_circolare.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_cornice_volt.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/cornice_volt.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_background.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/background.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-tvdpi_common_plus_signin_btn_text_light_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-tvdpi/common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi__settings_shader.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-hdpi/_settings_shader.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_common_plus_signin_btn_icon_dark_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-hdpi/common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi_common_plus_signin_btn_text_light_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-mdpi/common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_common_plus_signin_btn_text_light.xml.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_btn_connect.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/btn_connect.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_btn_machine5.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/btn_machine5.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_plusone_standard_off_client.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-plus-8.4.0.aar/b79278c617e53bee837848ad5b9576ca/res/drawable-xhdpi/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_close.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-hdpi-v4/com_facebook_close.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_black_topnub.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-mdpi-v4/com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_dialog_select_device.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/layout/dialog_select_device.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_com_facebook_logo.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable/com_facebook_logo.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi_common_plus_signin_btn_icon_dark_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xhdpi/common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_common_google_signin_btn_text_light_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-hdpi/common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi_common_google_signin_btn_text_dark_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xhdpi/common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_riga_device.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/layout/riga_device.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_photo_preview_on.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/photo_preview_on.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_logo.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-hdpi-v4/com_facebook_logo.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-tvdpi_common_plus_signin_btn_icon_light_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-tvdpi/common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-tvdpi_common_plus_signin_btn_text_light_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-tvdpi/common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_com_facebook_picker_activity_circle_row.xml.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/layout/com_facebook_picker_activity_circle_row.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_com_facebook_picker_list_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable/com_facebook_picker_list_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_btn_preview_pedal.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/btn_preview_pedal.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi_common_google_signin_btn_text_dark_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-mdpi/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_com_facebook_picker_list_longpressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable/com_facebook_picker_list_longpressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_button_grey_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-xhdpi-v4/com_facebook_button_grey_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_preview_l2_off.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/preview_l2_off.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi__settings_account.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xxhdpi/_settings_account.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light.xml.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_grey_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable/com_facebook_button_grey_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi__settings_language.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-hdpi/_settings_language.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_button_grey_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-hdpi-v4/com_facebook_button_grey_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_google_signin_btn_text_light_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xxhdpi/common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi__settings_liner.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xhdpi/_settings_liner.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_bottom_1_on.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/bottom_1_on.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_black_background.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-hdpi-v4/com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-tvdpi_common_google_signin_btn_text_light_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-tvdpi/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi_common_plus_signin_btn_icon_dark_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xhdpi/common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi__settings_device_name.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xxhdpi/_settings_device_name.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_button_like_icon.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-hdpi-v4/com_facebook_button_like_icon.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_plus_signin_btn_text_dark_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xxhdpi/common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_background_line.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/background_line.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxxhdpi__settings_preset_1.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xxxhdpi/_settings_preset_1.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_central_off_intero.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/central_off_intero.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_com_facebook_place_default_icon.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable/com_facebook_place_default_icon.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_common_plus_signin_btn_text_light_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-hdpi/common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_button_like_background_selected.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-xhdpi-v4/com_facebook_button_like_background_selected.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_plusone_small_off_client.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-plus-8.4.0.aar/b79278c617e53bee837848ad5b9576ca/res/drawable-xxhdpi/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_plusone_medium_off_client.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-plus-8.4.0.aar/b79278c617e53bee837848ad5b9576ca/res/drawable-xxhdpi/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi_common_google_signin_btn_text_light_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-mdpi/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_bluethoot_off.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/bluethoot_off.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_btn_machine4.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/btn_machine4.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_color_google.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/color_google.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi__settings_liner.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-hdpi/_settings_liner.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi__settings_preset_5.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xxhdpi/_settings_preset_5.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi__settings_device_password.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-hdpi/_settings_device_password.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_google_signin_btn_icon_dark_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xxhdpi/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_plus_signin_btn_text_light_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xxhdpi/common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_btn_preview_close.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/btn_preview_close.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxxhdpi__settings_footswitch.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xxxhdpi/_settings_footswitch.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_com_facebook_login_activity_layout.xml.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/layout/com_facebook_login_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_activity_settings.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_com_facebook_picker_checkbox.xml.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/layout/com_facebook_picker_checkbox.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_com_facebook_picker_list_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable/com_facebook_picker_list_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_plus_signin_btn_text_dark_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xxhdpi/common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_google_signin_btn_text_dark_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xxhdpi/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_plusone_tall_off_client.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-plus-8.4.0.aar/b79278c617e53bee837848ad5b9576ca/res/drawable-xxhdpi/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_preview_l1_off.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/preview_l1_off.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_btn_rettangolare_s.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/btn_rettangolare_s.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_google_signin_btn_text_light_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xxhdpi/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_like_background.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable/com_facebook_button_like_background.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_central_off_intero_old.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/central_off_intero_old.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_close.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-xhdpi-v4/com_facebook_close.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_btn_machine2.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/btn_machine2.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxxhdpi__settings_language.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xxxhdpi/_settings_language.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_preference_time_tracking.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/layout/preference_time_tracking.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_com_facebook_picker_image.xml.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/layout/com_facebook_picker_image.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-tvdpi_common_google_signin_btn_icon_light_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-tvdpi/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_common_google_signin_btn_text_dark_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-hdpi/common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_google_signin_btn_text_light_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xxhdpi/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_activity_menu_tat.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/layout/activity_menu_tat.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_btn_toggle_rettangolare.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/btn_toggle_rettangolare.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_plusone_small_off_client.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-plus-8.4.0.aar/b79278c617e53bee837848ad5b9576ca/res/drawable-mdpi/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_btn_machine3.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/btn_machine3.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi_common_plus_signin_btn_text_light_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xhdpi/common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/color_common_plus_signin_btn_text_dark.xml.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/color/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxxhdpi__settings_shader.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xxxhdpi/_settings_shader.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/layout_dialog_imposta_pswd.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/layout/dialog_imposta_pswd.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-tvdpi_common_plus_signin_btn_text_light_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-tvdpi/common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi_common_plus_signin_btn_text_light_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xhdpi/common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi__settings_device_password_alt.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xhdpi/_settings_device_password_alt.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi_common_full_open_on_phone.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xhdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi__settings_preset_1.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-mdpi/_settings_preset_1.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_button_grey_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-xhdpi-v4/com_facebook_button_grey_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi__settings_preset_2.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-mdpi/_settings_preset_2.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_google_signin_btn_icon_light_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xxhdpi/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi_common_google_signin_btn_icon_light_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xhdpi/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_button_like_background.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-xhdpi-v4/com_facebook_button_like_background.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-tvdpi_common_google_signin_btn_text_dark_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-tvdpi/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi_common_plus_signin_btn_icon_dark_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-mdpi/common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_button_grey_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-hdpi-v4/com_facebook_button_grey_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-tvdpi_ic_plusone_standard_off_client.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-plus-8.4.0.aar/b79278c617e53bee837848ad5b9576ca/res/drawable-tvdpi/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_bluethoot_on.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/bluethoot_on.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_btn_pedal.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/btn_pedal.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_common_plus_signin_btn_icon_dark_focused.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-hdpi/common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_com_facebook_list_divider.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable/com_facebook_list_divider.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/menu_menu_settings.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/menu/menu_settings.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_btn_circolare.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/btn_circolare.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_preview_close_off.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/preview_close_off.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi_common_plus_signin_btn_text_dark_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xhdpi/common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi__settings_shader.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xxhdpi/_settings_shader.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_preview_minus_off.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/preview_minus_off.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_grey_pressed.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable/com_facebook_button_grey_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi_common_plus_signin_btn_text_light_disabled.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xhdpi/common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/menu_setting_tat.xml.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/menu/setting_tat.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxxhdpi__settings_account.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-xxxhdpi/_settings_account.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_plusone_tall_off_client.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-plus-8.4.0.aar/b79278c617e53bee837848ad5b9576ca/res/drawable-hdpi/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi_common_plus_signin_btn_text_light_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-mdpi/common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_like.xml.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable/com_facebook_button_like.xml"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_blue_bottomnub.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_com_facebook_inverse_icon.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-3.23.0.aar/235301383deb62ead7fc6cb973b216c9/res/drawable/com_facebook_inverse_icon.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_plus_signin_btn_icon_dark_normal.9.png.flat",
+        "source": "/Users/nikolai/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/fef12006ee54fab761fd02a14ebeb6f5/res/drawable-xxhdpi/common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable-mdpi__settings_time.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable-mdpi/_settings_time.png"
+    },
+    {
+        "merged": "/Users/nikolai/Documents/iPowerTattoo/app/build/intermediates/res/merged/debug/drawable_bottom_2_on.png.flat",
+        "source": "/Users/nikolai/Documents/iPowerTattoo/app/src/main/res/drawable/bottom_2_on.png"
+    }
+]

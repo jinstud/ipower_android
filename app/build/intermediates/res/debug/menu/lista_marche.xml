@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/rimuovi_marca" android:title="Rimuovi"></item>
+    <item android:id="@+id/modifica_marca" android:title="Modifica"></item>
+    
+
+</menu>
+<!-- From: file:/Users/Nek/Documents/Work/Android/iPowerTattoo/app/src/main/res/menu/lista_marche.xml -->

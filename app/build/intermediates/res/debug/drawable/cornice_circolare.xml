@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <gradient
+                android:angle="45"
+                android:centerColor="#ff0ccef5"
+                android:centerY="0.5"
+                android:endColor="#ff0cf590"
+                android:startColor="#ff0cf590" />
+</shape>
+<!-- From: file:/Users/Nek/Documents/Work/Android/iPowerTattoo/app/src/main/res/drawable/cornice_circolare.xml -->

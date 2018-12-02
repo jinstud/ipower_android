@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Nek/Documents/Work/Android/iPowerTattoo/app/src/main/res/values-zh/arrays.xml -->
+    <eat-comment/>
+    <string-array name="footswitch_mode_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="footswitch_modes">
+        <item>Continuous</item>
+        <item>Toggle</item>
+    </string-array>
+    <string-array name="language_values">
+        <item>en</item>
+        <item>it</item>
+        <item>ru</item>
+    </string-array>
+    <string-array name="languages">
+        <item>English</item>
+        <item>Italiano</item>
+        <item>Русский</item>
+    </string-array>
+    <string-array name="scegli_ls">
+        <item>Canale L1</item>
+        <item>Canale L2</item>
+    </string-array>
+    <string-array name="scegli_stazione">
+        <item>Stazione 1</item>
+        <item>Stazione 2</item>
+        <item>Stazione 3</item>
+        <item>Stazione 4</item>
+        <item>Stazione 5</item>
+    </string-array>
+    <!-- From: file:/Users/Nek/Documents/Work/Android/iPowerTattoo/app/src/main/res/values-zh/strings.xml -->
+    <eat-comment/>
+    <string name="APP_ID">709209805865682</string>
+    <string name="a_main_connected">Connected</string>
+    <string name="a_main_disconnected">Disconnected</string>
+    <string name="a_welcome_continue_with_facebook">CONTINUE WITH FACEBOOK</string>
+    <string name="a_welcome_continue_with_google">CONTINUE WITH GOOGLE</string>
+    <string name="a_welcome_have_an_account">Have an account?</string>
+    <string name="a_welcome_logo">iPower Tattoo</string>
+    <string name="a_welcome_sign_in">SIGN IN</string>
+    <string name="a_welcome_sign_up_using_email">SIGN UP USING EMAIL</string>
+    <string name="action_settings">设置</string>
+    <string name="add_marca">添加</string>
+    <string name="app_name">iPower Tattoo</string>
+    <string name="auth_email_not_found">Account with provided email address is not found.</string>
+    <string name="auth_error_account_exists">An account with this email address already exists.</string>
+    <string name="auth_error_connection_failed">Connection failed. Please check your internet connection or try again later.</string>
+    <string name="auth_error_email">E-Mail Address does not appear to be valid!</string>
+    <string name="auth_error_firstname">First Name must be between 1 and 32 characters!</string>
+    <string name="auth_error_incorrect_email_or_password">Incorrect email or password.</string>
+    <string name="auth_error_lastname">Last Name must be between 1 and 32 characters!</string>
+    <string name="auth_error_password">Password must be between 4 and 20 characters!</string>
+    <string name="auth_reset_instructions">An email with reset password instructions is sent to your email address.</string>
+    <string name="auth_sign_out">Sign Out</string>
+    <string name="auth_sign_out_ask">Are you sure you want to sign out?</string>
+    <string name="auth_success_sign_up">Account created successfully. \nThank you for signing up with iPower Tattoo!</string>
+    <string name="bt_duty">Duty</string>
+    <string name="bt_foot">踏板</string>
+    <string name="bt_gps">GPS</string>
+    <string name="bt_lingua">语言</string>
+    <string name="bt_password">密码和名片</string>
+    <string name="bt_sign_out">Sign Out</string>
+    <string name="cambia_nome">更改名称</string>
+    <string name="cambia_pswd">更改密码</string>
+    <string name="cancel_mod">X</string>
+    <string name="cinese">中国</string>
+    <string name="coming_soon">coming soon…</string>
+    <string name="conferma_foot">确认踏板</string>
+    <string name="conferma_imposta_pswd">确认设置的密码</string>
+    <string name="conferma_language">确认语言</string>
+    <string name="conferma_nuovo_nome">确认新名称</string>
+    <string name="conferma_pswd_diversa">新的密码不正确重复</string>
+    <string name="conferma_pswd_nuova">确认新密码</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="connecting_dots">Connecting…</string>
+    <string name="connetti">接</string>
+    <string name="continuous">蹬开/关</string>
+    <string name="current_password">Current password</string>
+    <string name="d_password_reset_back">Back</string>
+    <string name="d_password_reset_email">Email</string>
+    <string name="d_password_reset_forgot_your_password">Forgot your password?</string>
+    <string name="d_password_reset_reset">RESET</string>
+    <string name="d_select_device_connect">CONNECT</string>
+    <string name="d_select_device_select_ipower_device_to_connect">Select iPower device to connect</string>
+    <string name="d_sign_in_email">Email</string>
+    <string name="d_sign_in_facebook">FACEBOOK</string>
+    <string name="d_sign_in_forgot_your_password">Forgot your password?</string>
+    <string name="d_sign_in_google">GOOGLE</string>
+    <string name="d_sign_in_password">Password</string>
+    <string name="d_sign_in_sign_in">SIGN IN</string>
+    <string name="d_sign_up_email">Email</string>
+    <string name="d_sign_up_first_name">First name</string>
+    <string name="d_sign_up_last_name">Last name</string>
+    <string name="d_sign_up_password">Password</string>
+    <string name="d_sign_up_sign_up">SIGN UP</string>
+    <string name="d_sign_up_terms_of_service_and_privacy_policy">Terms of service and privacy policy</string>
+    <string name="d_terms_privacy_ok">OK</string>
+    <string name="d_terms_privacy_terms_of_service_and_privacy_policy">Terms of service and privacy policy</string>
+    <string name="device_connection_error">Bluetooth connection failed. Problem may appear because of continuously repeated connections. Please try to connect again after few minutes.</string>
+    <string name="device_incorrect_password">Incorrect iPower device password.</string>
+    <string name="device_name_not_connected">You must be connected to the device to change it\'s name.</string>
+    <string name="device_not_found">No iPower devices found. Please make sure that iPower device is powered on and try to connect again.</string>
+    <string name="device_timeout">iPower device didn\'t respond within the timeout period. Please try to connect again.</string>
+    <string name="disconnetti">断开</string>
+    <string name="error_password_change_timeout">Password change confirmation was not received from iPower device.</string>
+    <string name="error_password_current">Please provide current iPower device password.</string>
+    <string name="error_password_incorrect">Incorrect iPower device password.</string>
+    <string name="error_password_length">Password length must be between 1 and 15 characters long.</string>
+    <string name="error_password_match">Password does not match the confirm password.</string>
+    <string name="error_password_response_current">Incorrect iPower device current password. New password was not applied.</string>
+    <string name="error_password_response_timeout">Password change confirmation was not received from iPower device.</string>
+    <string name="esegui_cambio_pswd">运行密码更改</string>
+    <string name="francese">Français</string>
+    <string name="free_control">Free control</string>
+    <string name="giapponese">日本人</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hint_nome_marca">设备名称</string>
+    <string name="imposta_pswd">设置密码</string>
+    <string name="inglese">English</string>
+    <string name="inserire_nome">插入的名字</string>
+    <string name="inserire_pswd">输入密码</string>
+    <string name="italiano">Italiano</string>
+    <string name="lb_annulla">取消</string>
+    <string name="lb_canale">通道</string>
+    <string name="lb_cc">c.c.</string>
+    <string name="lb_chl">L1</string>
+    <string name="lb_chs">L2</string>
+    <string name="lb_conferma_marca">确认</string>
+    <string name="lb_devices">设备</string>
+    <string name="lb_duty">Duty</string>
+    <string name="lb_foot">Foot</string>
+    <string name="lb_hz">Speed</string>
+    <string name="lb_liner">LINER</string>
+    <string name="lb_list_device">设备列表</string>
+    <string name="lb_menu">Menu</string>
+    <string name="lb_new_marca">设置</string>
+    <string name="lb_setting">设置设备</string>
+    <string name="lb_shader">SHADER</string>
+    <string name="lb_stazione">站</string>
+    <string name="loading_dots">Loading…</string>
+    <string name="meno">-</string>
+    <string name="modo_pedale">所以踏板</string>
+    <string name="name">Name</string>
+    <string name="new_password">New password</string>
+    <string name="no_cambio_nome">没有身份验证您不能更改名称</string>
+    <string name="no_cambio_pswd">你不能更改，恕不密码认证</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+    <string name="password">Password</string>
+    <string name="password_changed">iPower device password changed successfully.</string>
+    <string name="piu">+</string>
+    <string name="portoghese">Português</string>
+    <string name="processing_dots">Processing…</string>
+    <string name="pswd_attuale">当前密码</string>
+    <string name="pswd_lunga">最多字符=15</string>
+    <string name="pswd_nuova">新密码</string>
+    <string name="russo">Pусский</string>
+    <string name="scegli_ls">选择通道</string>
+    <string name="scegli_stazione">选择站</string>
+    <string name="searching_dots">Searching…</string>
+    <string name="sel_marca1"/>
+    <string name="sel_marca2"/>
+    <string name="sel_marca3"/>
+    <string name="sel_marca4"/>
+    <string name="sel_marca5"/>
+    <string name="spagnolo">Español</string>
+    <string name="tb_sel1_off"/>
+    <string name="tb_sel1_on"/>
+    <string name="tb_sel2_off"/>
+    <string name="tb_sel2_on"/>
+    <string name="tedesco">Deutsch</string>
+    <string name="timer">Timer</string>
+    <string name="title_activity_foot">踏板</string>
+    <string name="title_activity_language_tat">LanguageTat</string>
+    <string name="title_activity_lista_device_tata">ListaDeviceTata</string>
+    <string name="title_activity_menu">菜单</string>
+    <string name="title_activity_menu_tat">MenuTat</string>
+    <string name="title_activity_password_tat">PasswordTat</string>
+    <string name="title_activity_setting_tat">SettingTat</string>
+    <string name="title_activity_settings">Settings </string>
+    <string name="title_activity_time_tracking">Time Tracking</string>
+    <string name="title_activity_welcome"/>
+    <string name="toggle">连续踏板</string>
+    <string name="toggle_phone">脚踏遥控</string>
+    <string name="volt">V</string>
+    <string name="vuoto"/>
+</resources>

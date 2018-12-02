@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:paddingRight="10dp">
+
+    <Switch
+        android:id="@+id/switchOnActionBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="false"
+        android:enabled="false" />
+
+</RelativeLayout><!-- From: file:/Users/Nek/Documents/Work/Android/iPowerTattoo/app/src/main/res/layout/switch_layout.xml -->

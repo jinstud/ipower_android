@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory
+        android:title="APPLICATION">
+
+        <ListPreference
+            android:key="setting_footswitch_mode"
+            android:icon="@drawable/_settings_footswitch"
+            android:title="Footswitch mode"
+            android:defaultValue="1"
+            android:entries="@array/footswitch_modes"
+            android:entryValues="@array/footswitch_mode_values"
+            android:dialogTitle="Select footswitch mode" />
+
+        <!--<ListPreference
+            android:key="setting_language"
+            android:icon="@drawable/_settings_language"
+            android:title="Language"
+            android:defaultValue="en"
+            android:entries="@array/languages"
+            android:entryValues="@array/language_values"
+            android:dialogTitle="Select language" />-->
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="IPOWER DEVICE">
+
+        <com.ipower.tattoo.DeviceNamePreference
+            android:key="setting_device_name"
+            android:icon="@drawable/_settings_device_name"
+            android:title="Name"
+            android:dialogMessage="Define iPower device name:"
+            android:dialogTitle="Device name" />
+
+        <com.ipower.tattoo.DevicePasswordPreference
+            android:key="setting_device_password"
+            android:icon="@drawable/_settings_device_password_alt"
+            android:title="Password"
+            android:dialogMessage="Define password for device authentication:"
+            android:dialogTitle="Password" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="ACCOUNT">
+
+        <com.ipower.tattoo.AccountPreference
+            android:key="setting_account_name"
+            android:icon="@drawable/_settings_account"
+            android:title="Name Lastname"
+            android:dialogTitle="@string/auth_sign_out"
+            android:dialogMessage="@string/auth_sign_out_ask"
+            android:positiveButtonText="@string/auth_sign_out"/>
+
+        <PreferenceScreen
+            android:title="Time tracking"
+            android:icon="@drawable/_settings_time">
+
+            <intent android:targetPackage="com.ipower.tattoo"
+                android:targetClass="com.ipower.tattoo.TimeTrackingActivity"/>
+
+        </PreferenceScreen>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="SHORTCUTS">
+
+        <com.ipower.tattoo.ShortcutPreference
+            android:key="setting_liner"
+            android:icon="@drawable/_settings_liner"
+            android:title="Liner"
+            android:max="127"
+            android:text="V"
+            android:dialogTitle="Liner shortcut"
+            android:dialogMessage="Choose voltage value:"/>
+
+        <com.ipower.tattoo.ShortcutPreference
+            android:key="setting_shader"
+            android:icon="@drawable/_settings_shader"
+            android:title="Shader"
+            android:max="127"
+            android:text="V"
+            android:dialogTitle="Shader shortcut"
+            android:dialogMessage="Choose voltage value:"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="PRESETS">
+
+        <com.ipower.tattoo.PresetPreference
+            android:key="setting_machine_1"
+            android:icon="@drawable/_settings_preset_1"
+            android:title="MACHINE1"
+            android:max="127"
+            android:text="V"
+            android:dialogTitle="Preset"
+            android:dialogMessage="Define preset name and choose voltage value:"/>
+
+        <com.ipower.tattoo.PresetPreference
+            android:key="setting_machine_2"
+            android:icon="@drawable/_settings_preset_2"
+            android:title="MACHINE2"
+            android:max="127"
+            android:text="V"
+            android:dialogTitle="Preset"
+            android:dialogMessage="Define preset name and choose voltage value:"/>
+
+        <com.ipower.tattoo.PresetPreference
+            android:key="setting_machine_3"
+            android:icon="@drawable/_settings_preset_3"
+            android:title="MACHINE3"
+            android:max="127"
+            android:text="V"
+            android:dialogTitle="Preset"
+            android:dialogMessage="Define preset name and choose voltage value:"/>
+
+        <com.ipower.tattoo.PresetPreference
+            android:key="setting_machine_4"
+            android:icon="@drawable/_settings_preset_4"
+            android:title="MACHINE4"
+            android:max="127"
+            android:text="V"
+            android:dialogTitle="Preset"
+            android:dialogMessage="Define preset name and choose voltage value:"/>
+
+        <com.ipower.tattoo.PresetPreference
+            android:key="setting_machine_5"
+            android:icon="@drawable/_settings_preset_5"
+            android:title="MACHINE5"
+            android:max="127"
+            android:text="V"
+            android:dialogTitle="Preset"
+            android:dialogMessage="Define preset name and choose voltage value:"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen><!-- From: file:/Users/Nek/Documents/Work/Android/iPowerTattoo/app/src/main/res/xml/preferences.xml -->
