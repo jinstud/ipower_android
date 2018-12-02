@@ -1,0 +1,47 @@
+apply plugin: 'com.android.application'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:24.0.0-alpha1'
+    compile 'com.loopj.android:android-async-http:1.4.9'
+    compile 'cz.msebera.android:httpclient:4.4.1.2'
+    compile 'com.kbeanie:image-chooser-library:1.6.0@aar'
+    compile 'com.facebook.android:facebook-android-sdk:3.23.0'
+    compile 'com.google.android.gms:play-services-identity:8.4.0'
+    compile 'com.google.android.gms:play-services-plus:8.4.0'
+}
+
+android {
+    signingConfigs {
+        iPowerTattoo {
+            keyAlias 'ipowertattoo'
+            keyPassword '11021974'
+            storeFile file('/Users/Nek/AndroidstudioProjects/iPowerTattoo_psw_11021974_masterpsw_2807.jks')
+            storePassword '11021974'
+        }
+    }
+    compileSdkVersion 23
+    buildToolsVersion '22.0.1'
+    defaultConfig {
+        applicationId "com.ipower.tattoo"
+        minSdkVersion 18
+        targetSdkVersion 18
+        signingConfig signingConfigs.iPowerTattoo
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt')
+            signingConfig signingConfigs.iPowerTattoo
+            zipAlignEnabled true
+        }
+        debug {
+            signingConfig signingConfigs.iPowerTattoo
+        }
+    }
+    productFlavors {
+    }
+}
