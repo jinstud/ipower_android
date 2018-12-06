@@ -15,31 +15,23 @@ dependencies {
 }
 
 android {
-//    signingConfigs {
-//        iPowerTattoo {
-//            keyAlias 'ipowertattoo'
-//            keyPassword '11021974'
-//            storeFile file('/Users/nikolai/Documents/iPowerTattoo/iPowerTattoo_psw_11021974_masterpsw_2807.jks')
-//            storePassword '11021974'
-//        }
-//    }
+
     compileSdkVersion 28
     buildToolsVersion '28.0.3'
     defaultConfig {
         applicationId "com.ipower.tattoo"
         minSdkVersion 18
         targetSdkVersion 28
-//        signingConfig signingConfigs.iPowerTattoo
+
     }
     buildTypes {
         release {
             minifyEnabled true
             proguardFiles getDefaultProguardFile('proguard-android.txt')
-//            signingConfig signingConfigs.iPowerTattoo
             zipAlignEnabled true
         }
         debug {
-//            signingConfig signingConfigs.iPowerTattoo
+
         }
     }
     productFlavors {
